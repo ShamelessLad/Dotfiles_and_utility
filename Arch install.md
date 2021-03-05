@@ -12,7 +12,8 @@
 ```
 3. Partitioning
 ```
-	cfdisk 
+	cfdisk
+	# dos
 	# sda1-Linux Firmware, sda2-Linux Swap(2G)
 	mkfs.ext4 /dev/sda1
 	mkswap /dev/sda2
