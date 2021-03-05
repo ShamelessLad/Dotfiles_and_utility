@@ -1,0 +1,277 @@
+{
+   "checksum": "5cf96cac665c6be48bde34f15d48b8c9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13157651191000000",
+            "guid": "db942608-2b77-4049-b541-6bfadd2e6c86",
+            "id": "5",
+            "name": "вк",
+            "type": "url",
+            "url": "https://vk.com/"
+         }, {
+            "date_added": "13249498695000000",
+            "guid": "432f4881-509e-43c2-a8c2-f54b15ccfe35",
+            "id": "6",
+            "name": "4chan",
+            "type": "url",
+            "url": "https://boards.4channel.org/a/"
+         }, {
+            "children": [ {
+               "date_added": "13230734568000000",
+               "guid": "ba14624f-0123-45e2-aee7-678debc8cf1a",
+               "id": "8",
+               "name": "elite_chieftain · player info | osu!",
+               "type": "url",
+               "url": "https://osu.ppy.sh/users/14546920"
+            }, {
+               "date_added": "13237978627000000",
+               "guid": "c407f4ad-20a1-4b07-81b5-8e48063cb384",
+               "id": "9",
+               "name": "elite_chieftain - osu!chan",
+               "type": "url",
+               "url": "https://osuchan.syrin.me/users/elite_chieftain"
+            }, {
+               "date_added": "13241008520000000",
+               "guid": "25d08c4a-9678-42dd-b05e-2e04762629f1",
+               "id": "10",
+               "name": "osu! server status",
+               "type": "url",
+               "url": "https://status.ppy.sh/"
+            }, {
+               "date_added": "13253446261000000",
+               "guid": "ac24e978-ae79-4e68-bcf0-a9060a1e1144",
+               "id": "11",
+               "name": "User Statistics for elite_chieftain",
+               "type": "url",
+               "url": "https://ameobea.me/osutrack/user/elite_chieftain/"
+            } ],
+            "date_added": "13259357343347180",
+            "date_modified": "0",
+            "guid": "71a2d766-833f-4d6e-9db2-b7ab8134d305",
+            "id": "7",
+            "name": "Osu!",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13196468555000000",
+               "guid": "81df6840-d3ce-4c65-9425-db12ce34f115",
+               "id": "13",
+               "name": "nhentai: hentai doujinshi and manga",
+               "type": "url",
+               "url": "https://nhentai.net/"
+            }, {
+               "date_added": "13234740376000000",
+               "guid": "38f1552d-d4c6-4991-af60-46738af7d4d3",
+               "id": "14",
+               "name": "E-Hentai",
+               "type": "url",
+               "url": "https://e-hentai.org/"
+            }, {
+               "date_added": "13166376125000000",
+               "guid": "ddbd705f-697a-4a46-a185-a184bab3160a",
+               "id": "15",
+               "name": "r#34",
+               "type": "url",
+               "url": "https://rule34.paheal.net/"
+            } ],
+            "date_added": "13259357343347538",
+            "date_modified": "0",
+            "guid": "6476ee53-7c4b-4a3a-89f0-ed897cdf682f",
+            "id": "12",
+            "name": "Hentai",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13237237441000000",
+               "guid": "8dfe5c18-cb74-4469-b900-a5de263bcde0",
+               "id": "17",
+               "name": "Danbooru",
+               "type": "url",
+               "url": "https://danbooru.donmai.us/"
+            } ],
+            "date_added": "13259357343348085",
+            "date_modified": "0",
+            "guid": "92d0c3a6-8fff-4629-aa20-020fb34f6564",
+            "id": "16",
+            "name": "Booru",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13231865901000000",
+               "guid": "9f0bf82f-d77c-4d66-9496-0fee491fd357",
+               "id": "19",
+               "name": "Direct Link Generator",
+               "type": "url",
+               "url": "https://syncwithtech.blogspot.com/p/direct-download-link-generator.html"
+            }, {
+               "date_added": "13191160724000000",
+               "guid": "638f7513-4d77-4cc0-a42e-a1f6bd31aa2e",
+               "id": "20",
+               "name": "LMGTFY",
+               "type": "url",
+               "url": "http://lmgtfy.com/"
+            }, {
+               "date_added": "13231865980000000",
+               "guid": "0a8b9fcf-ba2f-4219-92ac-825f5ef84ea4",
+               "id": "21",
+               "name": "URL Shortener",
+               "type": "url",
+               "url": "https://www.shorturl.at/"
+            }, {
+               "date_added": "13231873119000000",
+               "guid": "e49dc490-47e5-4a19-a1e0-76091a0627b2",
+               "id": "22",
+               "name": "Google Sheets",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/u/0/"
+            }, {
+               "date_added": "13231526019000000",
+               "guid": "e3344338-c74c-4074-b023-82ae7f5d04a8",
+               "id": "23",
+               "name": "RuTracker.org",
+               "type": "url",
+               "url": "https://rutracker.net/forum/index.php"
+            }, {
+               "date_added": "13229690784000000",
+               "guid": "efcb5470-952d-43ef-828a-3b61b4547635",
+               "id": "24",
+               "name": "PS Vita (TV) Hacks Guide - Vita Hacks Guide",
+               "type": "url",
+               "url": "https://vita.hacks.guide/"
+            }, {
+               "date_added": "13246911850000000",
+               "guid": "b4db95d3-26a6-45e1-bd72-f3e80cbbae72",
+               "id": "25",
+               "name": "Equation Editor",
+               "type": "url",
+               "url": "https://www.codecogs.com/latex/eqneditor.php"
+            }, {
+               "date_added": "13252706430000000",
+               "guid": "c2d038a3-1ace-477f-8bec-8b9beee72b36",
+               "id": "26",
+               "name": "hydrus network",
+               "type": "url",
+               "url": "https://hydrusnetwork.github.io/hydrus/"
+            }, {
+               "date_added": "13254096759000000",
+               "guid": "f46567b0-8e15-4179-8c7b-430510b0138e",
+               "id": "27",
+               "name": "des encrypt & decrypt",
+               "type": "url",
+               "url": "https://encode-decode.com/des-encrypt-online/"
+            } ],
+            "date_added": "13259357343348281",
+            "date_modified": "0",
+            "guid": "18ab7fb6-7db3-40a3-86d0-9642b42a72f2",
+            "id": "18",
+            "name": "Utility",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13237237530000000",
+               "guid": "198405b7-73ea-470b-80b3-b978eeedf8b7",
+               "id": "29",
+               "name": "Buyf/a/g",
+               "type": "url",
+               "url": "https://www.buyfags.moe/So_you_want_to_be_a_buyf/a/g%3F"
+            }, {
+               "date_added": "13237120725000000",
+               "guid": "86ee0479-a60d-4b6a-9936-e0a755c836a9",
+               "id": "30",
+               "name": "/ona/",
+               "type": "url",
+               "url": "https://pastebin.com/hwhGL66a"
+            }, {
+               "date_added": "13258280970000000",
+               "guid": "2af54342-da18-4e00-a24d-37a848add756",
+               "id": "31",
+               "name": "/iemg/ Recommends",
+               "type": "url",
+               "url": "https://pastebin.com/8jg6z0gG"
+            } ],
+            "date_added": "13259357343349082",
+            "date_modified": "0",
+            "guid": "541e7c42-376f-4684-b1f4-6084201250d5",
+            "id": "28",
+            "name": "Guides",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13171317872000000",
+               "guid": "1e864ddf-f446-4c06-b352-2f2b9afe1688",
+               "id": "33",
+               "name": "Путеводитель по оркестру и его задворкам (fb2) | Флибуста",
+               "type": "url",
+               "url": "https://flibusta.is/b/380985/read"
+            }, {
+               "date_added": "13170280326000000",
+               "guid": "42a4c84c-ce55-42a6-be61-2b0d82de6e99",
+               "id": "34",
+               "name": "IMSLP",
+               "type": "url",
+               "url": "http://imslp.org/"
+            } ],
+            "date_added": "13259357343349430",
+            "date_modified": "0",
+            "guid": "fdcfc291-9640-470f-bbd5-4afb676b13f0",
+            "id": "32",
+            "name": "Music",
+            "type": "folder"
+         }, {
+            "date_added": "13243632121000000",
+            "guid": "74b9e9ad-df70-4437-bd33-92e696fc214d",
+            "id": "35",
+            "name": "ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13243289275000000",
+            "guid": "ffb33893-2430-4c7d-abd8-af6c8eb90b1d",
+            "id": "36",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13250021786000000",
+            "guid": "6c07f9b4-08c2-4e44-abc5-6d82cc7a7201",
+            "id": "37",
+            "name": "МИРЭА",
+            "type": "url",
+            "url": "https://online-edu.mirea.ru/my/"
+         }, {
+            "date_added": "13257517109000000",
+            "guid": "c6bce1fd-010b-48f9-90e0-fe7024c63bd3",
+            "id": "38",
+            "name": "CentOS bot_serv",
+            "type": "url",
+            "url": "https://cp-vps.jino.ru/openvz/g5k89/info/"
+         } ],
+         "date_added": "13259356686388013",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13259356686388015",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13259356686388016",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

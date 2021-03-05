@@ -1,0 +1,1 @@
+var storage={area:chrome.storage.sync,default_options:{date_format:"eu",pinned:0,cur_win:1,active_tab:"#saved",session_watcher:1}};

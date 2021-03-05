@@ -1,0 +1,5 @@
+2021/03/04-13:10:06.384 87c Reusing MANIFEST /home/seelelad/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/04-13:10:09.561 882 Level-0 table #5: started
+2021/03/04-13:10:09.562 882 Level-0 table #5: 364 bytes OK
+2021/03/04-13:10:09.565 882 Delete type=0 #3
+2021/03/04-13:10:09.565 882 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

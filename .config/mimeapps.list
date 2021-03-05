@@ -1,0 +1,7 @@
+[Added Associations]
+text/plain=xfce4-terminal.desktop;Alacritty.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-A4J4Z0.desktop;
+
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-A4J4Z0.desktop
+text/plain=xfce4-terminal.desktop

@@ -1,0 +1,191 @@
+{
+   "extDescr": {
+      "description": "",
+      "message": "Gestionnaire de session et sauveur d'onglets. Avec synchronisation"
+   },
+   "extName": {
+      "description": "ne pas traduire le nom de l'extension",
+      "message": "TabHamster"
+   },
+   "o_common_legend": {
+      "description": "",
+      "message": "Principal"
+   },
+   "o_dateFormat_eu": {
+      "description": "Format de date EU",
+      "message": "DD-MM-YYYY"
+   },
+   "o_dateFormat_text": {
+      "description": "",
+      "message": "Format de la date"
+   },
+   "o_dateFormat_us": {
+      "description": "Format de date US",
+      "message": "YYYY-MM-DD"
+   },
+   "o_error": {
+      "description": "Erreur pendant la sauvegarde des paramètres",
+      "message": "Erreur de sauvegarde"
+   },
+   "o_help_editGroup": {
+      "description": "",
+      "message": "Vous pouvez modifier, supprimer, changer la position de chaque groupe sauvegardé (No.4 sur la capture d'écran)"
+   },
+   "o_help_inNewWindow": {
+      "description": "",
+      "message": "'Ctrl + clic' sur le nom du groupe (ou de la session) l'ouvrira dans une nouvelle fenêtre. Ou cliquez sur l'icône à côté du nom du groupe (No.3 sur la capture d'écran)"
+   },
+   "o_help_overFavicon": {
+      "description": "",
+      "message": "Placer le curseur de la souris sur le favicon pour voir l'url de l'onglet."
+   },
+   "o_help_quickAdd": {
+      "description": "",
+      "message": "Pour rapidement sauvegarder tous les onglets ouvert dans un groupe, ouvrez juste la fenêtre d'extension et appuyez sur 'ENTER'."
+   },
+   "o_help_settings": {
+      "description": "",
+      "message": "Voir les paramètres de l'extension"
+   },
+   "o_help_showLinks": {
+      "description": "",
+      "message": "Pour voir les onglets d'un groupe cliquez sur le triangle gris (No.2 sur la capture d'écran)"
+   },
+   "o_help_syncStorage": {
+      "description": "",
+      "message": "Les groupes d'onglets sont stockés dans l'espace de stockage synchronisé. Connectez-vous au navigateur pour les récupérer sur un autre PC."
+   },
+   "o_help_syncStorage_0": {
+      "description": "",
+      "message": "Les sessions ne sont pas synchronisés"
+   },
+   "o_help_syncStorage_1": {
+      "description": "",
+      "message": "L'espace de stockage synchronisé est limité en taille. Vous pouvez voir l'espace utilisé (No.1 sur la capture d'écran)."
+   },
+   "o_help_syncStorage_2": {
+      "description": "",
+      "message": "Il existe également une limite à la taille de données enregistrées en une fois. Approximativement 17 - 24 onglets."
+   },
+   "o_help_tipsLegend": {
+      "description": "",
+      "message": "Astuces"
+   },
+   "o_saved": {
+      "description": "Paramètres sauvegardés OK",
+      "message": "Sauvegardé"
+   },
+   "o_savedTabs_cur_win": {
+      "description": "",
+      "message": "Fenêtre actuel seulement"
+   },
+   "o_savedTabs_legend": {
+      "description": "Légende de l'étiquette",
+      "message": "Filtre pour les onglets sauvegardés (exceptés les sessions)"
+   },
+   "o_savedTabs_pinned": {
+      "description": "",
+      "message": "Ajouter les onglets épinglés"
+   },
+   "o_sessionWatcher_toggle": {
+      "description": "",
+      "message": "Regarde les sessions. Décocher permet de désactiver la sauvegarde automatique de la session. Redémarrer le navigateur pour que les changements prennent effet"
+   },
+   "o_tabs_about": {
+      "description": "Onglet à propos",
+      "message": "À Propos"
+   },
+   "o_tabs_help": {
+      "description": "Nom d'onglet. Préfixe 'o_' pour la page d'options",
+      "message": "Aide"
+   },
+   "o_tabs_main": {
+      "description": "Onglet des paramètres",
+      "message": "Paramètres"
+   },
+   "p_GroupNameToSave": {
+      "description": "Espace réservé à la saisie de texte",
+      "message": "Nouveau groupe pour les onglets ouverts"
+   },
+   "p_addLinkLink_popup": {
+      "description": "",
+      "message": "URL"
+   },
+   "p_addLinkTitle_popup": {
+      "description": "",
+      "message": "Titre"
+   },
+   "p_addLinkToGroup_btn_title": {
+      "message": "Nouveau lien dans le groupe"
+   },
+   "p_currentSession": {
+      "message": "Actuel"
+   },
+   "p_delGroup_btn_title": {
+      "message": "Suppr. groupe"
+   },
+   "p_delLinkFromGroup_btn_title": {
+      "message": "Supprimer"
+   },
+   "p_downGroup_btn_title": {
+      "message": "Bas"
+   },
+   "p_editGroupName_btn_title": {
+      "message": "Modifier le nom du groupe"
+   },
+   "p_editLink_btn_title": {
+      "message": "Modifier"
+   },
+   "p_groupBtn": {
+      "description": "Btn hint",
+      "message": "Sauvegarder"
+   },
+   "p_groupInNewWindow_btn_title": {
+      "message": "Ouvrir dans une nouvelle fenêtre (Ctrl + clic)"
+   },
+   "p_helpBtn": {
+      "description": "Titre pour le bouton d'aide",
+      "message": "Aide"
+   },
+   "p_newGroupName_popup": {
+      "description": "",
+      "message": "Nom du nouveau groupe :"
+   },
+   "p_optionsBtn": {
+      "description": "Préfixe 'p_' - popup",
+      "message": "Paramètres"
+   },
+   "p_quotaBitesPerItem_error": {
+      "message": "Impossible de synchroniser avec l'espace de stockage. Trop d'onglets. Essayez d'en fermer un de plus."
+   },
+   "p_quotaBites_error": {
+      "message": "L'espace de synchronisation est plein. Supprimer des groupes non utilisés."
+   },
+   "p_synStorageUsage_title": {
+      "description": "",
+      "message": "Utilisation du stockage de synchronisation du navigateur"
+   },
+   "p_syncStorageDefault_error": {
+      "message": "Erreur de synchronisation. Essayez plus tard."
+   },
+   "p_tabName_Saved": {
+      "description": "",
+      "message": "Groupes Sauvegardés"
+   },
+   "p_tabName_Sessions": {
+      "description": "",
+      "message": "Sessions"
+   },
+   "p_tabsNumbers_text": {
+      "message": "Onglets :"
+   },
+   "p_upGroup_btn_title": {
+      "message": "Haut"
+   },
+   "p_window_text": {
+      "message": "Fenêtre"
+   },
+   "p_windowsNumbers_text": {
+      "message": "Fenêtre :"
+   }
+}

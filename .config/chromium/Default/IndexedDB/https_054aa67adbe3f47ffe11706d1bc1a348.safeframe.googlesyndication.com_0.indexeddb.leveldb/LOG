@@ -1,0 +1,5 @@
+2021/03/04-13:01:54.596 776 Reusing MANIFEST /home/seelelad/.config/chromium/Default/IndexedDB/https_054aa67adbe3f47ffe11706d1bc1a348.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/04-13:03:37.800 776 Level-0 table #5: started
+2021/03/04-13:03:37.808 776 Level-0 table #5: 439 bytes OK
+2021/03/04-13:03:37.810 776 Delete type=0 #3
+2021/03/04-13:03:37.810 776 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

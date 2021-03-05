@@ -1,0 +1,5 @@
+2021/03/04-12:42:48.424 4cb Reusing MANIFEST /home/seelelad/.config/chromium/Default/IndexedDB/https_smallbusiness.chron.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/04-12:44:42.556 934 Level-0 table #5: started
+2021/03/04-12:44:42.564 934 Level-0 table #5: 3824 bytes OK
+2021/03/04-12:44:42.566 934 Delete type=0 #3
+2021/03/04-12:44:42.566 934 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

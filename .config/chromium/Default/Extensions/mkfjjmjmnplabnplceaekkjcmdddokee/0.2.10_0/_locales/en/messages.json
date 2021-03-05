@@ -1,0 +1,227 @@
+{
+   "extDescr": {
+      "description": "",
+      "message": "Session manager and tabs saver. With sync"
+   },
+   "extName": {
+      "description": "do not translate extension name",
+      "message": "TabHamster"
+   },
+   "o_backup_backupInstruction": {
+      "description": "",
+      "message": "Copy text from text area below (CTRL+A to select whole text and CTRL+C to copy). Then past (CTRL+V) and save text in a file. For example TabHamsterBackup.txt. Use UTF-8 encoding for this file."
+   },
+   "o_backup_backupInstructionMore": {
+      "description": "",
+      "message": "You will be able to use this data to restore your saved groups and extension options. You cannot restore sessions."
+   },
+   "o_backup_backupLegend": {
+      "description": "",
+      "message": "Backup "
+   },
+   "o_backup_restoreButton": {
+      "description": "",
+      "message": "Restore options and saved groups"
+   },
+   "o_backup_restoreInstruction": {
+      "description": "",
+      "message": "Past your previously saved backup in this text area. Make sure that you past UTF-8 encoded text. Then press 'Restore...' button. Extension will be automatically restarted."
+   },
+   "o_backup_restoreInstructionMore": {
+      "description": "",
+      "message": "Attention! All your currently saved groups and options will be erased."
+   },
+   "o_backup_restoreLegend": {
+      "description": "",
+      "message": "Restore"
+   },
+   "o_common_legend": {
+      "description": "",
+      "message": "Main"
+   },
+   "o_dateFormat_eu": {
+      "description": "EU date format",
+      "message": "DD-MM-YYYY"
+   },
+   "o_dateFormat_text": {
+      "description": "",
+      "message": "Date format"
+   },
+   "o_dateFormat_us": {
+      "description": "US date format",
+      "message": "YYYY-MM-DD"
+   },
+   "o_error": {
+      "description": "Error during save settings",
+      "message": "Save error"
+   },
+   "o_help_editGroup": {
+      "description": "",
+      "message": "You can edit, delete, change position for every saved group  (No.4 on the  screenshot)"
+   },
+   "o_help_inNewWindow": {
+      "description": "",
+      "message": "'Ctrl + click' on group name (or session) will open it in a new window. Or click on the icon next to the group name (No.3 on the  screenshot)"
+   },
+   "o_help_overFavicon": {
+      "description": "",
+      "message": "Place mouse pointer over favicon to view url of tab."
+   },
+   "o_help_quickAdd": {
+      "description": "",
+      "message": "To quickly save all open tabs in a group, just open extension window and press 'ENTER'."
+   },
+   "o_help_settings": {
+      "description": "",
+      "message": "Look at the extensions settings"
+   },
+   "o_help_showLinks": {
+      "description": "",
+      "message": "To view tabs in saved group click on gray triangle (No.2 on the  screenshot)"
+   },
+   "o_help_syncStorage": {
+      "description": "",
+      "message": "Tab Groups are stored in the sync storage. Sign in to browser to get them on other PC."
+   },
+   "o_help_syncStorage_0": {
+      "description": "",
+      "message": "Sessions are not sync."
+   },
+   "o_help_syncStorage_1": {
+      "description": "",
+      "message": "Sync storage is limited in size. You can see storage usage (No.1 on the screenshot)."
+   },
+   "o_help_syncStorage_2": {
+      "description": "",
+      "message": "There is also a limit on the size of the recorded data at a time. It is approximately 17 - 24 tabs."
+   },
+   "o_help_tipsLegend": {
+      "description": "",
+      "message": "Tips"
+   },
+   "o_saved": {
+      "description": "Settings saved OK",
+      "message": "Saved"
+   },
+   "o_savedTabs_cur_win": {
+      "description": "",
+      "message": "Current window only"
+   },
+   "o_savedTabs_legend": {
+      "description": "Legend tag",
+      "message": "Filter for tabs saving (not sessions)"
+   },
+   "o_savedTabs_pinned": {
+      "description": "",
+      "message": "Add pinned tabs to set"
+   },
+   "o_sessionWatcher_toggle": {
+      "description": "",
+      "message": "Watch sessions. Unchecked will disable the automatic session saving. Extension will reload automatically!!!"
+   },
+   "o_tabs_about": {
+      "description": "About tab",
+      "message": "About"
+   },
+   "o_tabs_backup": {
+      "description": "Tab name",
+      "message": "Backup / Restore"
+   },
+   "o_tabs_help": {
+      "description": "Tab name. Prefix 'o_' for options page",
+      "message": "Help"
+   },
+   "o_tabs_main": {
+      "description": "Settings tab",
+      "message": "Settings"
+   },
+   "p_GroupNameToSave": {
+      "description": "Placeholder in text input",
+      "message": "New group from opened tabs"
+   },
+   "p_addLinkLink_popup": {
+      "description": "Modal window dialog",
+      "message": "URL"
+   },
+   "p_addLinkTitle_popup": {
+      "description": "Modal window dialog",
+      "message": "Title"
+   },
+   "p_addLinkToGroup_btn_title": {
+      "message": "New link to group"
+   },
+   "p_currentSession": {
+      "message": "Current"
+   },
+   "p_delGroup_btn_title": {
+      "message": "Del group"
+   },
+   "p_delLinkFromGroup_btn_title": {
+      "message": "Delete"
+   },
+   "p_downGroup_btn_title": {
+      "message": "Down"
+   },
+   "p_editGroupName_btn_title": {
+      "message": "Edit group name"
+   },
+   "p_editLink_btn_title": {
+      "message": "Edit"
+   },
+   "p_groupBtn": {
+      "description": "Btn hint",
+      "message": "Save"
+   },
+   "p_groupInNewWindow_btn_title": {
+      "message": "Open in new window (Ctrl + click)"
+   },
+   "p_helpBtn": {
+      "description": "Title for help button",
+      "message": "Help"
+   },
+   "p_newGroupName_popup": {
+      "description": "Modal window dialog",
+      "message": "New group name:"
+   },
+   "p_optionsBtn": {
+      "description": "Prefix 'p_' - popup",
+      "message": "Settings"
+   },
+   "p_overwriteGroup_popup": {
+      "description": "Modal window dialog",
+      "message": "The group with the same name already exists. Do you want overwrite old one with current tabs?"
+   },
+   "p_quotaBitesPerItem_error": {
+      "message": "Can't save to sync storage. Too many tabs. Try to close one more."
+   },
+   "p_quotaBites_error": {
+      "message": "Sync storage is full. Del unused groups."
+   },
+   "p_synStorageUsage_title": {
+      "description": "",
+      "message": "Browser's sync storage usage"
+   },
+   "p_syncStorageDefault_error": {
+      "message": "Sync storage error. Try again later."
+   },
+   "p_tabName_Saved": {
+      "description": "",
+      "message": "Saved groups"
+   },
+   "p_tabName_Sessions": {
+      "description": "",
+      "message": "Sessions"
+   },
+   "p_tabsNumbers_text": {
+      "message": "Tabs:"
+   },
+   "p_upGroup_btn_title": {
+      "message": "Up"
+   },
+   "p_window_text": {
+      "message": "Window"
+   },
+   "p_windowsNumbers_text": {
+      "message": "Win:"
+   }
+}

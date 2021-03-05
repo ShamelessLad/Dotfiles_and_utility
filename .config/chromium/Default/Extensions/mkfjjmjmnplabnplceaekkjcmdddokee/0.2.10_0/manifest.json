@@ -1,0 +1,30 @@
+{
+   "author": "Mykhailo Onikiienko",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/storage.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/ext_icons/19.png",
+         "38": "img/ext_icons/38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescr__",
+   "icons": {
+      "128": "img/ext_icons/128.png",
+      "16": "img/ext_icons/16.png",
+      "48": "img/ext_icons/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCP/rwAsM82q7Wu666+ipBC2b42WVY/KJcKDOjJtXZlqtXaIDTKr6jHqh7i0uwxkkbNoQ1yQdsE2kpLerWtblllMXsr7nbDn2pfeCDzFg3DI9zNBlYyWwpDEFrdVSjrj5iBq5jZMpRS4OvxV3caCr7TDtviwv8vOcp65q/LVDirnwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "25",
+   "name": "__MSG_extName__",
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs", "chrome://favicon/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.10"
+}

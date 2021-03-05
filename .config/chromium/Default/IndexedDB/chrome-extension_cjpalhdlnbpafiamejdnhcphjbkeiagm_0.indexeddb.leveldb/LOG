@@ -1,0 +1,8 @@
+2021/03/05-17:16:29.272 1e3 Reusing MANIFEST /home/seelelad/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-17:16:29.272 1e3 Recovering log #49
+2021/03/05-17:16:29.273 1e3 Reusing old log /home/seelelad/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000049.log 
+2021/03/05-17:16:31.286 1e3 Level-0 table #53: started
+2021/03/05-17:16:31.286 1e3 Level-0 table #53: 0 bytes OK
+2021/03/05-17:16:31.289 1e3 Delete type=0 #49
+2021/03/05-17:16:31.290 1e3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/05-17:16:31.290 1e3 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

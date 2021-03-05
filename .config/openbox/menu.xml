@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openbox.org/                 file:///usr/share/openbox/menu.xsd">
+	<menu id="root-menu" label="Openbox 3">
+		<menu id="root-menu-47033" label="Programming">
+			<item label="VSCode">
+				<action name="Execute">
+					<execute>code</execute>
+				</action>
+			</item>
+			<item label="Python3 in Terminal">
+				<action name="Execute">
+					<execute>xfce4-terminal -e python3</execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<menu id="root-menu-151830" label="Places">
+			<item label="Home">
+				<action name="Execute">
+					<execute>pcmanfm -n ~/</execute>
+				</action>
+			</item>
+			<item label="File System">
+				<action name="Execute">
+					<execute>pcmanfm -n  /</execute>
+				</action>
+			</item>
+			<separator/>
+			<item label="Backgrounds">
+				<action name="Execute">
+					<execute>pcmanfm -n ~/Wallpapers</execute>
+				</action>
+			</item>
+			<item label="Downloads">
+				<action name="Execute">
+					<execute>pcmanfm -n ~/Downloads</execute>
+				</action>
+			</item>
+			<item label="Trash">
+				<action name="Execute">
+					<execute>pcmanfm -n  trash:///</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="client-list-menu"/>
+		<menu execute="~/.config/openbox/pipemenus/obrecent.sh" id="recent" label="Recent Files"/>
+		<separator/>
+		<menu id="root-menu-46598" label="Config Files">
+			<item label="Bash RC">
+				<action name="Execute">
+					<execute>xfce4-terminal -x vim ~/.bashrc</execute>
+				</action>
+			</item>
+			<item label="Tint2 Config">
+				<action name="Execute">
+					<execute>xfce4-terminal -x vim ~/.config/tint2/tint2rc</execute>
+				</action>
+			</item>
+			<item label="Openbox Config">
+				<action name="Execute">
+					<execute>xfce4-terminal -x vim ~/.config/openbox/rc.xml</execute>
+				</action>
+			</item>
+			<item label="Openbox Menu Config">
+				<action name="Execute">
+					<execute>xfce4-terminal -x vim ~/.config/openbox/menu.xml</execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<item label="Rofi">
+			<action name="Execute">
+				<execute>rofi -show drun</execute>
+			</action>
+		</item>
+		<item label="Terminal">
+			<action name="Execute">
+				<execute>xfce4-terminal</execute>
+			</action>
+		</item>
+		<item label="Web Browser">
+			<action name="Execute">
+				<execute>chromium</execute>
+			</action>
+		</item>
+		<item label="Exit">
+			<action name="Exit"/>
+		</item>
+	</menu>
+</openbox_menu>

@@ -1,0 +1,227 @@
+{
+   "extDescr": {
+      "description": "Короткий опис розширення",
+      "message": "Зберігай відкриті вкладки, керуй сесіями браузера"
+   },
+   "extName": {
+      "description": "Ім'я розширення. Не перекладати",
+      "message": "TabHamster"
+   },
+   "o_backup_backupInstruction": {
+      "description": "",
+      "message": "Скопіюй текст з текстового поля нижче (CTRL+A щоб вибрати весь текст і CTRL+C щоб скопіювати). Потім встав (CTRL+V) і збережи текст в  будь-якому файлі. Наприклад, TabHamsterBackup.txt. Використовуй UTF-8 кодування для цього файлу."
+   },
+   "o_backup_backupInstructionMore": {
+      "description": "",
+      "message": "З допомогою цих даних ти будеш мати можливість відновити свої збереженні групи і налаштування. (Дивись інструкцію в полі вище). Відновити сесії неможливо."
+   },
+   "o_backup_backupLegend": {
+      "description": "",
+      "message": "Резерв"
+   },
+   "o_backup_restoreButton": {
+      "description": "",
+      "message": "Відновити налаштування і збережені групи"
+   },
+   "o_backup_restoreInstruction": {
+      "description": "",
+      "message": "Встав попередньо збережені резервні данні в текстове поле нижче. Данні мають бути кодовані в UTF-8. Потім натисни кнопку 'Відновити...' (під текстовим полем). В разі успіху розширення буде автоматично перезавантажене."
+   },
+   "o_backup_restoreInstructionMore": {
+      "description": "",
+      "message": " Увага! Всі збережені на даний момент групи і налаштування будуть знищені. Замість них будуть завантажені дані з резерву."
+   },
+   "o_backup_restoreLegend": {
+      "description": "",
+      "message": "Відновлення"
+   },
+   "o_common_legend": {
+      "description": "",
+      "message": "Загальні"
+   },
+   "o_dateFormat_eu": {
+      "description": "EU date format",
+      "message": "ДД-MM-РРРР"
+   },
+   "o_dateFormat_text": {
+      "description": "",
+      "message": "Формат дати"
+   },
+   "o_dateFormat_us": {
+      "description": "US date format",
+      "message": "РРРР-MM-ДД"
+   },
+   "o_error": {
+      "description": "Повідомлення про помилку під час збереження налаштувань в storage",
+      "message": "Помилка під час збереження налаштувань"
+   },
+   "o_help_editGroup": {
+      "description": "",
+      "message": "Збережені групи можна редагувати, видаляти, змінювати їх позицію.(№4 на скріншоті)"
+   },
+   "o_help_inNewWindow": {
+      "description": "",
+      "message": "'Ctrl+клік' на імені збереженої групи (або сесії) відкриє її в новому вікні браузера. Або клік на іконці біля ім'я групи (№3 на скріншоті)"
+   },
+   "o_help_overFavicon": {
+      "description": "",
+      "message": "Щоб побачити url вкладки, наведіть курсор на його favicon"
+   },
+   "o_help_quickAdd": {
+      "description": "",
+      "message": "Щоб швидко зберегти всі відкриті таби в групу, відкрий вікно розширення та натисни клавішу 'ENTER'. Нова група буде мати ім'я з поточних дати та часу. (Пізніше можна буде відредагувати)"
+   },
+   "o_help_settings": {
+      "description": "",
+      "message": "В налаштуваннях можна вибрати формат дати та змінити фільтри для збереження табів"
+   },
+   "o_help_showLinks": {
+      "description": "",
+      "message": "Щоб продивитись збережені в групі таби клацни на сірий трикутник біля ім'я групи (№2 на скріншоті)"
+   },
+   "o_help_syncStorage": {
+      "description": "",
+      "message": "Групи табів зберігаються у сховище браузера. Це сховище синхронізується. Всі збережені вкладки будуть доступні, наприклад, дома і на роботі. За умови, якщо вхід у браузер виконаний з вашим аккаунтом."
+   },
+   "o_help_syncStorage_0": {
+      "description": "",
+      "message": "Сесії не синхронізуються."
+   },
+   "o_help_syncStorage_1": {
+      "description": "",
+      "message": "Сховище для синхронізації має обмежений розмір. Відсоток його використання, можна побачити біля вкладки (№1 на скріншоті). В більшості випадків цього розміру буде достатньо. Якщо сховище буде переповнене, то можна видалити групи, що не використовуються."
+   },
+   "o_help_syncStorage_2": {
+      "description": "",
+      "message": "Також є обмеження на розмір даних що записуються за один раз. Це приблизно 17 - 24 вкладок (табів)."
+   },
+   "o_help_tipsLegend": {
+      "description": "",
+      "message": "Поради та підказки"
+   },
+   "o_saved": {
+      "description": "Повідомлення про успішне збереження настройок",
+      "message": "Зміни збережені"
+   },
+   "o_savedTabs_cur_win": {
+      "description": "",
+      "message": "Зберігати в набір тільки вкладки з поточного вікна"
+   },
+   "o_savedTabs_legend": {
+      "description": "Legend tag",
+      "message": "Фільтр для вкладок що зберігаються (На сесії не поширюється)"
+   },
+   "o_savedTabs_pinned": {
+      "description": "",
+      "message": "Додавати закріплені вкладки (Pinned tabs) в набір"
+   },
+   "o_sessionWatcher_toggle": {
+      "description": "",
+      "message": "Слідкувати за сесіями. Зніміть прапорець, щоб вимкнути автоматичне збереження сесій. Розширення буде автоматично перезавантажене!!!"
+   },
+   "o_tabs_about": {
+      "description": "Ім'я вкладки",
+      "message": "Про розширення"
+   },
+   "o_tabs_backup": {
+      "description": "Ім'я вкладки",
+      "message": "Резерв / Відновлення"
+   },
+   "o_tabs_help": {
+      "description": "Підказка для кнопки.  Префікс 'o_' вказує, що текст відноситься до  options.html",
+      "message": "Допомога"
+   },
+   "o_tabs_main": {
+      "description": "Ім'я вкладки",
+      "message": "Налаштування"
+   },
+   "p_GroupNameToSave": {
+      "description": "Placeholder в текстовому полі для нового набору",
+      "message": "Нова група з відкритих вкладок"
+   },
+   "p_addLinkLink_popup": {
+      "description": "Модальне вікно для редагування імені групи вкладок",
+      "message": "URL"
+   },
+   "p_addLinkTitle_popup": {
+      "description": "Модальне вікно для редагування імені групи вкладок",
+      "message": "Назва"
+   },
+   "p_addLinkToGroup_btn_title": {
+      "message": "Додати посилання в групу"
+   },
+   "p_currentSession": {
+      "message": "Поточна"
+   },
+   "p_delGroup_btn_title": {
+      "message": "Видалити групу"
+   },
+   "p_delLinkFromGroup_btn_title": {
+      "message": "Видалити з групи"
+   },
+   "p_downGroup_btn_title": {
+      "message": "Вниз"
+   },
+   "p_editGroupName_btn_title": {
+      "message": "Змінити ім'я групи"
+   },
+   "p_editLink_btn_title": {
+      "message": "Редагувати"
+   },
+   "p_groupBtn": {
+      "description": "Підказка для кнопки.",
+      "message": "Зберегти відкриті в групу"
+   },
+   "p_groupInNewWindow_btn_title": {
+      "message": "Відкрити в новому вікні (Ctrl + клік)"
+   },
+   "p_helpBtn": {
+      "description": "Підказка для кнопки",
+      "message": "Допомога"
+   },
+   "p_newGroupName_popup": {
+      "description": "Модальне вікно для редагування імені групи вкладок",
+      "message": "Нове ім'я групи:"
+   },
+   "p_optionsBtn": {
+      "description": "Підказка для кнопки.  Префікс 'p_' вказує, що текст відноситься до popup",
+      "message": "Налаштування"
+   },
+   "p_overwriteGroup_popup": {
+      "description": "Модальне вікно ",
+      "message": "Група з таким ім'ям вже існує. Переписати вже існуючу групу поточним набором вкладок?"
+   },
+   "p_quotaBitesPerItem_error": {
+      "message": "Забагато табів для запису в сховище. Закрийте декілька та спробуйте знову."
+   },
+   "p_quotaBites_error": {
+      "message": "Сховище заповнене. Видаліть групи, які не використовуються."
+   },
+   "p_synStorageUsage_title": {
+      "description": "Хінт для показу зайнятого місця в сховищі",
+      "message": "Відсоток використання сховища Chrome"
+   },
+   "p_syncStorageDefault_error": {
+      "message": "Помилка під час роботи з сховищем. Спробуйте пізніше."
+   },
+   "p_tabName_Saved": {
+      "description": "Ім'я таба для збережених груп вкладок",
+      "message": "Збережені"
+   },
+   "p_tabName_Sessions": {
+      "description": "Ім'я таба для збережених сесій",
+      "message": "Сесії"
+   },
+   "p_tabsNumbers_text": {
+      "message": "Табів:"
+   },
+   "p_upGroup_btn_title": {
+      "message": "Вгору"
+   },
+   "p_window_text": {
+      "message": "Вікно"
+   },
+   "p_windowsNumbers_text": {
+      "message": "Вікон:"
+   }
+}
