@@ -1,2 +1,2 @@
 # Dotfiles
-My dotfiles for arch. Open box .xml files based on [DT's repo](https://gitlab.com/dwt1/dotfiles)
+My dotfiles and installation guide for arch. Openbox .xml files based on [DT's .config](https://gitlab.com/dwt1/dotfiles)
