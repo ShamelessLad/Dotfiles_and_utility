@@ -46,9 +46,9 @@
 9. Localisation
 ```
 	vim /etc/locale.gen 
-	# uncomment en_US and ru_RU
+	# uncomment en_US
 	locale-gen
-	vim /etc/locale.con 
+	vim /etc/locale.conf
 	# LANG=en_US.UTF-8
 ```
 10. Host
