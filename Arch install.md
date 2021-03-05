@@ -90,7 +90,7 @@
 ## After installation
 1. Useful packages
 ```	
-	pacman -S lightdm lightdm-webkit2-greeter openbox obconf rofi xfce4-terminal pcmanfm xarchiver tint2 xcompmgr nitrogen chromium
+	pacman -S lightdm lightdm-webkit2-greeter openbox obconf rofi xfce4-terminal pcmanfm xarchiver unzip tint2 xcompmgr nitrogen chromium git
 ```
 2. SSH for github
 ```
