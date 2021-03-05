@@ -77,7 +77,7 @@
 14. Bootloader (grub -___-)
 ```
 	pacman -S grub
-	grub-install
+	grub-install /dev/sda
 	grub-mkconfig -o /boot/grub/grub.cfg
 ```
 15. Finish installation
