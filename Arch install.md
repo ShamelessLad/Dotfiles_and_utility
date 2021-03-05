@@ -1,6 +1,9 @@
 # My guide for fast arch installation
 [Donwnload .iso file here](https://archlinux.org/download/)
+
 [Full guide](https://wiki.archlinux.org/index.php/Installation_guide)
+
+---
 ## Basic Arch Linux install
 1. Ping
 2. Time and date
@@ -82,8 +85,7 @@
 	shutdown now
 	# remove .iso
 ```
-
-
+---
 ## After installation
 1. Useful packages
 ```	
