@@ -111,7 +111,7 @@
 	ssh-keygen -t ed25519 -C "muradovgithub@gmail.com"
 	eval `ssh-agent -s`
 	ssh-add ~/.ssh/id_ed25519
-	clip < ~/.ssh/id_ed25519.pub
+	xclip -sel clip < ~/.ssh/id_ed25519.pub
 	# add ssh key to your github account
 ```
 4. Git configuration
