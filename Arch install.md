@@ -92,7 +92,21 @@
 ```	
 	pacman -S lightdm lightdm-webkit2-greeter openbox obconf rofi xfce4-terminal pcmanfm xarchiver unzip tint2 xcompmgr nitrogen chromium git
 ```
-2. SSH for github
+2. Install yaourt
+```
+	sudo pacman -S --needed base-devel git wget yajl
+	cd /tmp
+	git clone https://aur.archlinux.org/package-query.git
+	cd package-query/
+	makepkg -si
+	cd ..
+	git clone https://aur.archlinux.org/yaourt.git
+	cd yaourt/
+	makepkg -si
+	cd ..
+	sudo rm -dR yaourt/ package-query/
+```
+3. SSH for github
 ```
 	ssh-keygen -t ed25519 -C "muradovgithub@gmail.com"
 	eval `ssh-agent -s`
@@ -100,18 +114,18 @@
 	clip < ~/.ssh/id_ed25519.pub
 	# add ssh key to your github account
 ```
-3. Git configuration
+4. Git configuration
 ```
 	git config --global user.name "ShamelessLad"
 	git config --global user.email "muradovgithub@gmail.com"
 	git config --global core.editor vim
 ```
-4. Dotfiles (mainly .config)
+5. Dotfiles (mainly .config)
 ```
 	git clone git@github.com:ShamelessLad/Dotfiles_and_utility.git
-	cp /Dotfiles_and_utility/.config ~/
+	cp Dotfiles_and_utility/.config ~/
 ```
-5. Wallpapers
+6. Wallpapers
 ```	
 	git clone git@github.com:ShamelessLad/Wallpapers.git 
 ```
