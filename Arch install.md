@@ -90,7 +90,7 @@
 ## After installation
 1. Useful packages
 ```	
-	pacman -S lightdm lightdm-webkit2-greeter openbox obconf rofi xfce4-terminal pcmanfm xarchiver unzip tint2 xcompmgr nitrogen chromium git
+	pacman -S lightdm lightdm-webkit2-greeter xorg xorg-xinit openbox obconf rofi openssh xfce4-terminal pcmanfm xarchiver unzip tint2 xcompmgr nitrogen chromium git telegram-desktop code
 ```
 2. Install yaourt
 ```
