@@ -601,6 +601,16 @@
         <command>code</command>
       </action>
     </keybind>
+    <!-- Rofi -->
+    <keybind key="W-r">
+      <action name="Execute">
+        <startupnotify>
+          <enabled>true</enabled>
+          <name>Rofi</name>
+        </startupnotify>
+        <command>rofi</command>
+      </action>
+    </keybind>
     <!-- Keybindings for exiting out of Openbox -->
     <keybind key="S-W-q">
       <action name="Execute">
