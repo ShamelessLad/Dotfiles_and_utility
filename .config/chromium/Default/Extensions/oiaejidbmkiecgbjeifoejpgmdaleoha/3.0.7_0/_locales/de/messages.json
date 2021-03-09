@@ -1,0 +1,381 @@
+{
+   "add_new_style": {
+      "message": "Neuen Stil hinzufügen ..."
+   },
+   "background_color": {
+      "message": "Hintergrund"
+   },
+   "backup_description": {
+      "message": "Bis wir die automatische Synchronisierung/Sicherung unterstützen, sichern Sie Ihre CSS bitte manuell."
+   },
+   "backup_options": {
+      "message": "Backup"
+   },
+   "basic_mode": {
+      "message": "Einfach"
+   },
+   "basic_mode_description": {
+      "message": "Visual CSS-Editor"
+   },
+   "basics_options": {
+      "message": "Grundeinstellungen"
+   },
+   "black": {
+      "message": "Schwarz"
+   },
+   "black_italic": {
+      "message": "Schwarz kursiv"
+   },
+   "bold": {
+      "message": "Fett"
+   },
+   "bold_italic": {
+      "message": "Fett Kursiv"
+   },
+   "border": {
+      "message": "Rahmen"
+   },
+   "border_color": {
+      "message": "Rahmenfarbe"
+   },
+   "border_dashed": {
+      "message": "Gestrichelt"
+   },
+   "border_dotted": {
+      "message": "Gepunktet"
+   },
+   "border_double": {
+      "message": "Doppelt durchgezogen"
+   },
+   "border_groove": {
+      "message": "Rille"
+   },
+   "border_inset": {
+      "message": "Eingesetzt"
+   },
+   "border_none": {
+      "message": "Kein Rahmen"
+   },
+   "border_outset": {
+      "message": "Aufgesetzt"
+   },
+   "border_properties": {
+      "message": "Rahmen"
+   },
+   "border_ridge": {
+      "message": "Grat"
+   },
+   "border_solid": {
+      "message": "Durchgezogen"
+   },
+   "border_style": {
+      "message": "Rahmenart"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "close": {
+      "message": "Schließen"
+   },
+   "close_stylebot": {
+      "message": "Stylebot schließen"
+   },
+   "code_mode": {
+      "message": "Code"
+   },
+   "code_mode_description": {
+      "message": "Code"
+   },
+   "color_properties": {
+      "message": "Farben"
+   },
+   "context_menu": {
+      "message": "Kontextmenü"
+   },
+   "copy_to_clipboard": {
+      "message": "In die Zwischenablage kopieren"
+   },
+   "customize": {
+      "message": "Anpassen"
+   },
+   "dark_theme": {
+      "message": "Dunkel"
+   },
+   "decrease_width": {
+      "message": "Breite verringern"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "delete_all_styles": {
+      "message": "Alle Stile löschen"
+   },
+   "delete_all_warning": {
+      "message": "Dadurch werden alle Ihre Stile dauerhaft gelöscht. Sie können dies nicht rückgängig machen."
+   },
+   "delete_style": {
+      "message": "Stil löschen ..."
+   },
+   "delete_style_for_url_description": {
+      "message": "Dadurch wird Ihr CSS für $url$ dauerhaft gelöscht. Sie können dies nicht rückgängig machen.",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "Stil für $url$ löschen",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "Dadurch wird Ihr Stil dauerhaft gelöscht. Sie können dies nicht rückgängig machen."
+   },
+   "disable_all_styles": {
+      "message": "Alle deaktivieren"
+   },
+   "donate": {
+      "message": "Spenden"
+   },
+   "editor": {
+      "message": "Editor"
+   },
+   "enable_all_styles": {
+      "message": "Alles aktivieren"
+   },
+   "enable_readability": {
+      "message": "Lesbarkeit aktivieren"
+   },
+   "enable_right_click_menu": {
+      "message": "Rechtsklick-Menü aktivieren"
+   },
+   "enter_css_selector": {
+      "message": "CSS-Auswahl eingeben ..."
+   },
+   "export_dialog_title": {
+      "message": "Kopieren/Einfügen in eine JSON-Datei"
+   },
+   "export_instructions": {
+      "message": "Bewahren Sie den JSON-Code sicher auf, um ihn später zu importieren."
+   },
+   "extension_description": {
+      "message": "Ändern Sie das Erscheinungsbild des Webs sofort"
+   },
+   "font_family": {
+      "message": "Schriftart"
+   },
+   "font_size": {
+      "message": "Größe"
+   },
+   "font_style": {
+      "message": "Stil"
+   },
+   "global": {
+      "message": "Global"
+   },
+   "grayscale": {
+      "message": "Graustufen"
+   },
+   "grayscale_description": {
+      "message": "Wenden Sie Graustufen auf die Seite an."
+   },
+   "height": {
+      "message": "Höhe"
+   },
+   "help_options": {
+      "message": "Hilfe"
+   },
+   "hide": {
+      "message": "Ausblenden"
+   },
+   "hide_element": {
+      "message": "Wenden Sie CSS an, um ausgewählte Elemente ein-/auszublenden"
+   },
+   "import": {
+      "message": "Importieren"
+   },
+   "import_dialog_title": {
+      "message": "Fügen Sie zuvor exportierten JSON-Code ein"
+   },
+   "import_error": {
+      "message": "Beim Importieren des JSON-Codes ist ein Fehler aufgetreten. Bitte stellen Sie sicher, dass er richtig formatiert ist, und versuchen Sie es erneut."
+   },
+   "import_instructions": {
+      "message": "Dadurch werden Ihre vorhandenen Stile überschrieben. Sie können dies nicht rückgängig machen."
+   },
+   "increase_width": {
+      "message": "Breite erhöhen"
+   },
+   "inspect_description": {
+      "message": "Wählen Sie ein Element auf der Seite aus, um es zu formatieren"
+   },
+   "italic": {
+      "message": "Kursiv"
+   },
+   "keyboard_shortcuts": {
+      "message": "Tastatürkürzel"
+   },
+   "layout_properties": {
+      "message": "Layout"
+   },
+   "light": {
+      "message": "Dünn"
+   },
+   "light_italic": {
+      "message": "Dünn kursiv"
+   },
+   "light_theme": {
+      "message": "Hell"
+   },
+   "line_height": {
+      "message": "Zeilenhöhe"
+   },
+   "magic_mode": {
+      "message": "Magisch"
+   },
+   "magic_mode_description": {
+      "message": "Experimentelle Merkmale. Funktioniert möglicherweise nicht auf allen Seiten wie erwartet."
+   },
+   "margin": {
+      "message": "Außenabstand"
+   },
+   "medium": {
+      "message": "Mittel"
+   },
+   "medium_italic": {
+      "message": "Mittel kursiv"
+   },
+   "move_editor": {
+      "message": "Editor verschieben"
+   },
+   "move_left": {
+      "message": "Nach links bewegen"
+   },
+   "move_right": {
+      "message": "Nach rechts bewegen"
+   },
+   "none": {
+      "message": "Keiner"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "Alles löschen ..."
+   },
+   "open_delete_style_dialog": {
+      "message": "Löschen ..."
+   },
+   "open_edit_style_dialog": {
+      "message": "Bearbeiten ..."
+   },
+   "open_export_dialog": {
+      "message": "Export ..."
+   },
+   "open_import_dialog": {
+      "message": "Importieren ..."
+   },
+   "open_stylebot": {
+      "message": "Stylebot öffnen"
+   },
+   "padding": {
+      "message": "Innenabstand"
+   },
+   "privacy_policy": {
+      "message": "Datenschutz-Bestimmungen:\n\nStylebot hat niemals persönliche Daten, Browserverlauf usw. gesammelt und wird diese niemals sammeln. Die Erlaubnis zum Zugriff auf Websites besteht darin, dass Sie das CSS nur für eine Webseite anpassen und Ihr CSS automatisch anwenden können, wenn Sie die Webseite in Zukunft besuchen.\n\nIn Zukunft kann Stylebot die Browserversion, den Plattformnamen und die Benutzereinstellungen erfassen (mit Ausnahme der Website-Liste oder anderer Daten, die zur Identifizierung des Benutzers beitragen können). Diese Informationen werden benötigt, um zu entscheiden, ob neue Funktionen implementiert, nicht verwendete Funktionen entfernt oder Standardeinstellungen für neue Benutzer vorgeschlagen werden sollen. Dies wird nur mit Ihrer Erlaubnis erfasst."
+   },
+   "readability": {
+      "message": "Lesbarkeit"
+   },
+   "readability_description": {
+      "message": "Machen Sie Artikel auf dieser Website lesbar, indem Sie nicht wesentliche Seitenelemente wie Seitenleisten, Fußzeilen und Anzeigen ausblenden."
+   },
+   "regular": {
+      "message": "Normal"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "sepia_theme": {
+      "message": "Sepia"
+   },
+   "set_basic_mode": {
+      "message": "Wechseln Sie zum Basiseditor"
+   },
+   "set_code_mode": {
+      "message": "Wechseln Sie zum Code-Editor"
+   },
+   "set_magic_mode": {
+      "message": "Wechseln Sie zum magischen Editor"
+   },
+   "show_help": {
+      "message": "Hilfe anzeigen"
+   },
+   "store_listing": {
+      "message": "Sie wählen ein Element aus und wählen alle Änderungen aus, die Sie im Editor vornehmen möchten. Sie können Schriftart, Farbe, Ränder, Sichtbarkeit und vieles mehr ändern. Sie können CSS auch manuell codieren.\n\n★ Einfache Verwendung: Wählen Sie Elemente mithilfe von UI-Aktionen aus und gestalten Sie sie\n★ Einfach und schnell: Änderungen werden sofort gespeichert\n★ Code-Editor - Schreiben Sie Ihr eigenes CSS\n★ Lesbarkeitsmodus - Machen Sie Artikel auf jeder Website lesbar, indem Sie nicht wesentliche Seitenelemente wie Seitenleisten, Fußzeilen und Anzeigen ausblenden.\n★ Graustufenmodus - Aktivieren Sie Graustufen, um die Belastung von Websites zu verringern"
+   },
+   "style_element": {
+      "message": "Stilelement"
+   },
+   "styles_options": {
+      "message": "Stile"
+   },
+   "styling": {
+      "message": "Styling"
+   },
+   "text_align": {
+      "message": "Ausrichtung"
+   },
+   "text_color": {
+      "message": "Textfarbe"
+   },
+   "text_decoration": {
+      "message": "Textdekoration"
+   },
+   "text_properties": {
+      "message": "Text"
+   },
+   "text_transform": {
+      "message": "Textumwandlung"
+   },
+   "theme": {
+      "message": "Thema"
+   },
+   "thin": {
+      "message": "Fein"
+   },
+   "thin_italic": {
+      "message": "Fein kursiv"
+   },
+   "toggle_editor": {
+      "message": "Editor umschalten"
+   },
+   "toggle_grayscale": {
+      "message": "Graustufen umschalten"
+   },
+   "toggle_inspector": {
+      "message": "Elementinspektor umschalten"
+   },
+   "toggle_readability": {
+      "message": "Lesbarkeit umschalten"
+   },
+   "toggle_styling": {
+      "message": "Styling umschalten"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "Tastaturkürzel anzeigen ..."
+   },
+   "view_options": {
+      "message": "Optionen..."
+   },
+   "visibility": {
+      "message": "Sichtbarkeit"
+   },
+   "width": {
+      "message": "Breite"
+   }
+}

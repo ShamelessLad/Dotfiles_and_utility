@@ -1,0 +1,381 @@
+{
+   "add_new_style": {
+      "message": "添加新樣式"
+   },
+   "background_color": {
+      "message": "背景色"
+   },
+   "backup_description": {
+      "message": "在我們支持自動同步/備份之前，請手動備份您的 CSS"
+   },
+   "backup_options": {
+      "message": "備份"
+   },
+   "basic_mode": {
+      "message": "選擇"
+   },
+   "basic_mode_description": {
+      "message": "可視化 CSS 編輯器"
+   },
+   "basics_options": {
+      "message": "基本"
+   },
+   "black": {
+      "message": "濃體"
+   },
+   "black_italic": {
+      "message": "濃斜體"
+   },
+   "bold": {
+      "message": "粗體"
+   },
+   "bold_italic": {
+      "message": "粗斜體"
+   },
+   "border": {
+      "message": "邊框"
+   },
+   "border_color": {
+      "message": "顏色"
+   },
+   "border_dashed": {
+      "message": "方形虛線"
+   },
+   "border_dotted": {
+      "message": "點虛線"
+   },
+   "border_double": {
+      "message": "雙實線"
+   },
+   "border_groove": {
+      "message": "雕刻線"
+   },
+   "border_inset": {
+      "message": "陷入線"
+   },
+   "border_none": {
+      "message": "無"
+   },
+   "border_outset": {
+      "message": "突出線"
+   },
+   "border_properties": {
+      "message": "邊框"
+   },
+   "border_ridge": {
+      "message": "浮雕線"
+   },
+   "border_solid": {
+      "message": "實線"
+   },
+   "border_style": {
+      "message": "樣式"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "close_stylebot": {
+      "message": "關閉 Stylebot"
+   },
+   "code_mode": {
+      "message": "代碼"
+   },
+   "code_mode_description": {
+      "message": "代碼"
+   },
+   "color_properties": {
+      "message": "顏色"
+   },
+   "context_menu": {
+      "message": "上下文菜單"
+   },
+   "copy_to_clipboard": {
+      "message": "復制到剪貼板"
+   },
+   "customize": {
+      "message": "自定義"
+   },
+   "dark_theme": {
+      "message": "黑暗"
+   },
+   "decrease_width": {
+      "message": "減小寬度"
+   },
+   "default": {
+      "message": "默認"
+   },
+   "delete": {
+      "message": "刪除"
+   },
+   "delete_all_styles": {
+      "message": "刪除所有樣式"
+   },
+   "delete_all_warning": {
+      "message": "這將永久刪除您的所有樣式。且此操作無法撤銷。"
+   },
+   "delete_style": {
+      "message": "刪除樣式"
+   },
+   "delete_style_for_url_description": {
+      "message": "這將永久刪除 $url$ 上的樣式。並且不能撤銷。",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "刪除 $url$ 的樣式",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "這將永久刪除您的樣式。且此操作無法撤銷。"
+   },
+   "disable_all_styles": {
+      "message": "全部關閉"
+   },
+   "donate": {
+      "message": "捐助"
+   },
+   "editor": {
+      "message": "編輯器"
+   },
+   "enable_all_styles": {
+      "message": "全部開啟"
+   },
+   "enable_readability": {
+      "message": "開啟簡閱"
+   },
+   "enable_right_click_menu": {
+      "message": "開啟右鍵菜單"
+   },
+   "enter_css_selector": {
+      "message": "進入 CSS 選擇器"
+   },
+   "export_dialog_title": {
+      "message": "復制/粘貼到 JSON 文件中"
+   },
+   "export_instructions": {
+      "message": "請確保 JSON 安全，以便以後導入"
+   },
+   "extension_description": {
+      "message": "壹個方便改變網頁外觀的擴展"
+   },
+   "font_family": {
+      "message": "字體"
+   },
+   "font_size": {
+      "message": "字號"
+   },
+   "font_style": {
+      "message": "字型"
+   },
+   "global": {
+      "message": "全局"
+   },
+   "grayscale": {
+      "message": "灰度"
+   },
+   "grayscale_description": {
+      "message": "將灰度應用於該頁面"
+   },
+   "height": {
+      "message": "高度"
+   },
+   "help_options": {
+      "message": "幫助"
+   },
+   "hide": {
+      "message": "隱藏"
+   },
+   "hide_element": {
+      "message": "隱藏或顯示所選元素"
+   },
+   "import": {
+      "message": "導入"
+   },
+   "import_dialog_title": {
+      "message": "粘貼先前導出的 JSON"
+   },
+   "import_error": {
+      "message": "導入 JSON 時出錯。請確保其格式正確，然後重試。"
+   },
+   "import_instructions": {
+      "message": "這將覆蓋您現有的樣式。且此操作無法撤銷。"
+   },
+   "increase_width": {
+      "message": "增加寬度"
+   },
+   "inspect_description": {
+      "message": "選擇頁面中的壹個元素來對其進行樣式設置"
+   },
+   "italic": {
+      "message": "標準斜體"
+   },
+   "keyboard_shortcuts": {
+      "message": "快捷鍵"
+   },
+   "layout_properties": {
+      "message": "布局"
+   },
+   "light": {
+      "message": "細體"
+   },
+   "light_italic": {
+      "message": "細斜體"
+   },
+   "light_theme": {
+      "message": "明亮"
+   },
+   "line_height": {
+      "message": "行高"
+   },
+   "magic_mode": {
+      "message": "簡閱"
+   },
+   "magic_mode_description": {
+      "message": "實驗性功能。可能無法在所有頁面上正常工作。"
+   },
+   "margin": {
+      "message": "外邊距"
+   },
+   "medium": {
+      "message": "適中"
+   },
+   "medium_italic": {
+      "message": "適中斜體"
+   },
+   "move_editor": {
+      "message": "移動編輯器"
+   },
+   "move_left": {
+      "message": "置左"
+   },
+   "move_right": {
+      "message": "置右"
+   },
+   "none": {
+      "message": "無"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "全部刪除"
+   },
+   "open_delete_style_dialog": {
+      "message": "刪除"
+   },
+   "open_edit_style_dialog": {
+      "message": "編輯"
+   },
+   "open_export_dialog": {
+      "message": "導出"
+   },
+   "open_import_dialog": {
+      "message": "導入"
+   },
+   "open_stylebot": {
+      "message": "打開 Stylebot"
+   },
+   "padding": {
+      "message": "內邊距"
+   },
+   "privacy_policy": {
+      "message": "隱私政策：\n\nStylebot 從未收集過，也不會收集任何個人數據、瀏覽歷史記錄等。訪問網站的權限僅是允許您自定義任何網頁的 CSS，並在將來訪問該網頁時自動應用您的 CSS。\n\n將來，Stylebot 可能會收集瀏覽器版本，平臺名稱，用戶設置（網站列表或任何其他有助於識別用戶的數據除外）等信息。這些信息將用來實現新功能，刪除未使用的功能或為新用戶建議默認設置。只有獲得您的許可，它才會發生。"
+   },
+   "readability": {
+      "message": "簡閱"
+   },
+   "readability_description": {
+      "message": "隱藏側邊欄，頁腳和廣告之類的非必需頁面元素，使該網站上的文章易於閱讀。"
+   },
+   "regular": {
+      "message": "標準"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "sepia_theme": {
+      "message": "棕褐色"
+   },
+   "set_basic_mode": {
+      "message": "切換到選擇頁面"
+   },
+   "set_code_mode": {
+      "message": "切換到代碼編輯器"
+   },
+   "set_magic_mode": {
+      "message": "切換到簡閱頁面"
+   },
+   "show_help": {
+      "message": "顯示幫助"
+   },
+   "store_listing": {
+      "message": "選擇壹個元素，然後從編輯器中選擇要進行的任何更改。您可以更改字體，顏色，邊距，可見性等。您也可以自定義 CSS。\n\n★易於使用：使用 UI 操作挑選元素並設置樣式\n★簡單快捷：更改立即保存\n★代碼編輯器-在這裏編寫自己的 CSS\n★可讀性模式-通過隱藏非必要的頁面元素（如側邊欄，頁腳和廣告），提升網頁閱讀體驗。\n★灰度模式-啟用灰度以減少來自網頁的刺激"
+   },
+   "style_element": {
+      "message": "打開 Stylebot"
+   },
+   "styles_options": {
+      "message": "樣式"
+   },
+   "styling": {
+      "message": "樣式"
+   },
+   "text_align": {
+      "message": "對齊方式"
+   },
+   "text_color": {
+      "message": "字色"
+   },
+   "text_decoration": {
+      "message": "文本修飾"
+   },
+   "text_properties": {
+      "message": "文本"
+   },
+   "text_transform": {
+      "message": "大小寫轉換"
+   },
+   "theme": {
+      "message": "主題"
+   },
+   "thin": {
+      "message": "淡體"
+   },
+   "thin_italic": {
+      "message": "淡斜體"
+   },
+   "toggle_editor": {
+      "message": "開啟/關閉編輯器"
+   },
+   "toggle_grayscale": {
+      "message": "開啟/關閉灰度"
+   },
+   "toggle_inspector": {
+      "message": "開啟/關閉元素選擇器"
+   },
+   "toggle_readability": {
+      "message": "開啟/關閉簡閱"
+   },
+   "toggle_styling": {
+      "message": "開啟/關閉樣式"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "查看快捷鍵"
+   },
+   "view_options": {
+      "message": "設置"
+   },
+   "visibility": {
+      "message": "可見性"
+   },
+   "width": {
+      "message": "寬度"
+   }
+}

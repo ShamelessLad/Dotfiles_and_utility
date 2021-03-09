@@ -1,0 +1,381 @@
+{
+   "add_new_style": {
+      "message": "Добавить новый стиль ..."
+   },
+   "background_color": {
+      "message": "Задний план"
+   },
+   "backup_description": {
+      "message": "Пока мы не поддержим автоматическую синхронизацию / резервное копирование, сделайте резервную копию CSS вручную."
+   },
+   "backup_options": {
+      "message": "Резервное копирование"
+   },
+   "basic_mode": {
+      "message": "Базовый"
+   },
+   "basic_mode_description": {
+      "message": "Визуальный редактор CSS"
+   },
+   "basics_options": {
+      "message": "Основы"
+   },
+   "black": {
+      "message": "Черный"
+   },
+   "black_italic": {
+      "message": "Черный курсив"
+   },
+   "bold": {
+      "message": "Жирный"
+   },
+   "bold_italic": {
+      "message": "Жирный курсив"
+   },
+   "border": {
+      "message": "Граница"
+   },
+   "border_color": {
+      "message": "цвет"
+   },
+   "border_dashed": {
+      "message": "Пунктирная"
+   },
+   "border_dotted": {
+      "message": "Пунктирный"
+   },
+   "border_double": {
+      "message": "Двойной"
+   },
+   "border_groove": {
+      "message": "Паз"
+   },
+   "border_inset": {
+      "message": "Вставка"
+   },
+   "border_none": {
+      "message": "Никто"
+   },
+   "border_outset": {
+      "message": "Начало"
+   },
+   "border_properties": {
+      "message": "Граница"
+   },
+   "border_ridge": {
+      "message": "Ридж"
+   },
+   "border_solid": {
+      "message": "Твердый"
+   },
+   "border_style": {
+      "message": "Стиль"
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "close": {
+      "message": "близко"
+   },
+   "close_stylebot": {
+      "message": "Закрыть Stylebot"
+   },
+   "code_mode": {
+      "message": "Код"
+   },
+   "code_mode_description": {
+      "message": "Код"
+   },
+   "color_properties": {
+      "message": "Цвета"
+   },
+   "context_menu": {
+      "message": "Контекстное меню"
+   },
+   "copy_to_clipboard": {
+      "message": "Скопировать в буфер обмена"
+   },
+   "customize": {
+      "message": "Настроить"
+   },
+   "dark_theme": {
+      "message": "Темно"
+   },
+   "decrease_width": {
+      "message": "Уменьшить ширину"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "delete": {
+      "message": "удалять"
+   },
+   "delete_all_styles": {
+      "message": "Удалить все стили"
+   },
+   "delete_all_warning": {
+      "message": "Это навсегда удалит все ваши стили. Вы не можете отменить это."
+   },
+   "delete_style": {
+      "message": "Удалить стиль ..."
+   },
+   "delete_style_for_url_description": {
+      "message": "Это приведет к безвозвратному удалению вашего css для $url$. Вы не можете отменить это.",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "Удалить стиль для $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "Это навсегда удалит ваш стиль. Вы не можете отменить это."
+   },
+   "disable_all_styles": {
+      "message": "Отключить все"
+   },
+   "donate": {
+      "message": "Пожертвовать"
+   },
+   "editor": {
+      "message": "редактор"
+   },
+   "enable_all_styles": {
+      "message": "Включить все"
+   },
+   "enable_readability": {
+      "message": "Включить удобочитаемость"
+   },
+   "enable_right_click_menu": {
+      "message": "Включить меню правого клика"
+   },
+   "enter_css_selector": {
+      "message": "Войдите в селектор CSS ..."
+   },
+   "export_dialog_title": {
+      "message": "Скопируйте / вставьте в файл JSON"
+   },
+   "export_instructions": {
+      "message": "Сохраните JSON в безопасности, чтобы импортировать его позже"
+   },
+   "extension_description": {
+      "message": "Мгновенно меняйте внешний вид сети"
+   },
+   "font_family": {
+      "message": "Шрифт"
+   },
+   "font_size": {
+      "message": "Размер"
+   },
+   "font_style": {
+      "message": "Стиль"
+   },
+   "global": {
+      "message": "Глобальный"
+   },
+   "grayscale": {
+      "message": "Оттенки серого"
+   },
+   "grayscale_description": {
+      "message": "Примените к странице оттенки серого."
+   },
+   "height": {
+      "message": "Высота"
+   },
+   "help_options": {
+      "message": "Помогите"
+   },
+   "hide": {
+      "message": "Спрятать"
+   },
+   "hide_element": {
+      "message": "Применить CSS для отображения / скрытия выбранных элементов"
+   },
+   "import": {
+      "message": "Импортировать"
+   },
+   "import_dialog_title": {
+      "message": "Вставить ранее экспортированный JSON"
+   },
+   "import_error": {
+      "message": "Мы столкнулись с ошибкой при импорте JSON. Убедитесь, что он правильно отформатирован, и повторите попытку."
+   },
+   "import_instructions": {
+      "message": "Это перезапишет ваши существующие стили. Вы не можете отменить это."
+   },
+   "increase_width": {
+      "message": "Увеличить ширину"
+   },
+   "inspect_description": {
+      "message": "Выберите элемент на странице для его стиля"
+   },
+   "italic": {
+      "message": "Курсив"
+   },
+   "keyboard_shortcuts": {
+      "message": "Горячие клавиши"
+   },
+   "layout_properties": {
+      "message": "Макет"
+   },
+   "light": {
+      "message": "Легкий"
+   },
+   "light_italic": {
+      "message": "Светлый курсив"
+   },
+   "light_theme": {
+      "message": "Легкий"
+   },
+   "line_height": {
+      "message": "Высота линии"
+   },
+   "magic_mode": {
+      "message": "Магия"
+   },
+   "magic_mode_description": {
+      "message": "Экспериментальные возможности. Может работать не на всех страницах должным образом."
+   },
+   "margin": {
+      "message": "Прибыль"
+   },
+   "medium": {
+      "message": "Средняя"
+   },
+   "medium_italic": {
+      "message": "Средний курсив"
+   },
+   "move_editor": {
+      "message": "Редактор перемещения"
+   },
+   "move_left": {
+      "message": "Движение влево"
+   },
+   "move_right": {
+      "message": "Переместить вправо"
+   },
+   "none": {
+      "message": "Никто"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "Удалить все..."
+   },
+   "open_delete_style_dialog": {
+      "message": "Удалять..."
+   },
+   "open_edit_style_dialog": {
+      "message": "Редактировать..."
+   },
+   "open_export_dialog": {
+      "message": "Экспорт ..."
+   },
+   "open_import_dialog": {
+      "message": "Импортировать..."
+   },
+   "open_stylebot": {
+      "message": "Открыть Stylebot"
+   },
+   "padding": {
+      "message": "Прокладка"
+   },
+   "privacy_policy": {
+      "message": "Политика конфиденциальности:\n\nStylebot никогда не собирал и никогда не будет собирать какие-либо личные данные, историю просмотров и т. Д. Разрешение на доступ к веб-сайтам позволяет вам настраивать CSS только для любой веб-страницы и автоматически применять ваш CSS при посещении веб-страницы в будущем.\n\nВ будущем Stylebot может собирать версию браузера, название платформы, настройки пользователя (за исключением списка веб-сайтов или любых других данных, которые могут помочь идентифицировать пользователя). Эта информация необходима для принятия решения о внедрении новых функций, удалении неиспользуемых функций или предложении настроек по умолчанию для новых пользователей. Это произойдет только с вашего разрешения."
+   },
+   "readability": {
+      "message": "Читаемость"
+   },
+   "readability_description": {
+      "message": "Сделайте статьи на этом сайте удобочитаемыми, скрыв несущественные элементы страницы, такие как боковые панели, нижние колонтитулы и рекламу."
+   },
+   "regular": {
+      "message": "Обычный"
+   },
+   "save": {
+      "message": "Сохранить"
+   },
+   "sepia_theme": {
+      "message": "Сепия"
+   },
+   "set_basic_mode": {
+      "message": "Перейти в основной редактор"
+   },
+   "set_code_mode": {
+      "message": "Перейти в редактор кода"
+   },
+   "set_magic_mode": {
+      "message": "Перейти в волшебный редактор"
+   },
+   "show_help": {
+      "message": "Показать помощь"
+   },
+   "store_listing": {
+      "message": "Вы выбираете элемент и выбираете любые изменения, которые хотите внести в редакторе. Вы можете изменить шрифт, цвет, поля, видимость и многое другое. Вы также можете кодировать CSS вручную.\n\n★ Простота использования: выбирайте и стилизуйте элементы с помощью действий пользовательского интерфейса.\n★ Просто и быстро: изменения сохраняются мгновенно\n★ Редактор кода - напишите свой собственный CSS\n★ Режим удобочитаемости - сделайте статьи на любом сайте удобочитаемыми, скрывая несущественные элементы страницы, такие как боковые панели, нижние колонтитулы и рекламу.\n★ Режим оттенков серого: включите оттенки серого, чтобы снизить нагрузку на веб-сайты."
+   },
+   "style_element": {
+      "message": "Элемент стиля"
+   },
+   "styles_options": {
+      "message": "Стили"
+   },
+   "styling": {
+      "message": "Укладка"
+   },
+   "text_align": {
+      "message": "Выравнивание"
+   },
+   "text_color": {
+      "message": "Текст"
+   },
+   "text_decoration": {
+      "message": "Украшение"
+   },
+   "text_properties": {
+      "message": "Текст"
+   },
+   "text_transform": {
+      "message": "Преобразовать"
+   },
+   "theme": {
+      "message": "Тема"
+   },
+   "thin": {
+      "message": "Тонкий"
+   },
+   "thin_italic": {
+      "message": "Тонкий курсив"
+   },
+   "toggle_editor": {
+      "message": "Переключить редактор"
+   },
+   "toggle_grayscale": {
+      "message": "Переключить оттенки серого"
+   },
+   "toggle_inspector": {
+      "message": "Переключить инспектор элементов"
+   },
+   "toggle_readability": {
+      "message": "Переключить читабельность"
+   },
+   "toggle_styling": {
+      "message": "Переключить стиль"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "Просмотреть сочетания клавиш ..."
+   },
+   "view_options": {
+      "message": "Параметры..."
+   },
+   "visibility": {
+      "message": "Видимость"
+   },
+   "width": {
+      "message": "Ширина"
+   }
+}

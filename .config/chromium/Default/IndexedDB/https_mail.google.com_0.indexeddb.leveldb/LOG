@@ -1,3 +1,7 @@
-2021/03/05-00:08:30.164 96e Reusing MANIFEST /home/seelelad/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/05-00:08:30.165 96e Recovering log #3
-2021/03/05-00:08:30.167 96e Reusing old log /home/seelelad/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/03/09-12:07:12.680 1267 Reusing MANIFEST /home/seelelad/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/09-12:07:12.680 1267 Recovering log #3
+2021/03/09-12:07:12.711 1267 Reusing old log /home/seelelad/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/03/09-12:07:46.184 12f1 Level-0 table #5: started
+2021/03/09-12:07:46.205 12f1 Level-0 table #5: 883369 bytes OK
+2021/03/09-12:07:46.207 12f1 Delete type=0 #3
+2021/03/09-12:07:46.207 12f1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

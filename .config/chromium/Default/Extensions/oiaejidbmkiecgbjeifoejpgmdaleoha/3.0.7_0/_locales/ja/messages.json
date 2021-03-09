@@ -1,0 +1,381 @@
+{
+   "add_new_style": {
+      "message": "新しいスタイルを追加..."
+   },
+   "background_color": {
+      "message": "背景色"
+   },
+   "backup_description": {
+      "message": "将来的には自動同期/バックアップをサポートしますが、実装するまではCSSを手動でバックアップしてください。"
+   },
+   "backup_options": {
+      "message": "バックアップ"
+   },
+   "basic_mode": {
+      "message": "ベーシック"
+   },
+   "basic_mode_description": {
+      "message": "ビジュアルCSSエディタ"
+   },
+   "basics_options": {
+      "message": "基本設定"
+   },
+   "black": {
+      "message": "ブラック"
+   },
+   "black_italic": {
+      "message": "黒のイタリック"
+   },
+   "bold": {
+      "message": "大胆な"
+   },
+   "bold_italic": {
+      "message": "ボールドイタリック"
+   },
+   "border": {
+      "message": "境界"
+   },
+   "border_color": {
+      "message": "色"
+   },
+   "border_dashed": {
+      "message": "破線"
+   },
+   "border_dotted": {
+      "message": "点在"
+   },
+   "border_double": {
+      "message": "ダブル"
+   },
+   "border_groove": {
+      "message": "溝"
+   },
+   "border_inset": {
+      "message": "インセット"
+   },
+   "border_none": {
+      "message": "なし"
+   },
+   "border_outset": {
+      "message": "最初"
+   },
+   "border_properties": {
+      "message": "境界"
+   },
+   "border_ridge": {
+      "message": "海嶺"
+   },
+   "border_solid": {
+      "message": "固体"
+   },
+   "border_style": {
+      "message": "スタイル"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "close_stylebot": {
+      "message": "Stylebotを閉じる"
+   },
+   "code_mode": {
+      "message": "コード"
+   },
+   "code_mode_description": {
+      "message": "コード"
+   },
+   "color_properties": {
+      "message": "色"
+   },
+   "context_menu": {
+      "message": "コンテキストメニュー"
+   },
+   "copy_to_clipboard": {
+      "message": "クリップボードにコピーする"
+   },
+   "customize": {
+      "message": "カスタマイズ"
+   },
+   "dark_theme": {
+      "message": "闇"
+   },
+   "decrease_width": {
+      "message": "幅を狭める"
+   },
+   "default": {
+      "message": "デフォルト"
+   },
+   "delete": {
+      "message": "削除する"
+   },
+   "delete_all_styles": {
+      "message": "すべてのスタイルを削除する"
+   },
+   "delete_all_warning": {
+      "message": "すべてのスタイルが削除されます。 これを元に戻すことはできません。削除しますか?"
+   },
+   "delete_style": {
+      "message": "スタイルを削除する..."
+   },
+   "delete_style_for_url_description": {
+      "message": "これにより、$url$のCSSが完全に削除されます。 これを元に戻すことはできません。",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "$url$のスタイルを削除",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "これにより、スタイルが完全に削除されます。 これを元に戻すことはできません。削除しますか?"
+   },
+   "disable_all_styles": {
+      "message": "すべて無効にする"
+   },
+   "donate": {
+      "message": "Stylebot 開発者へ寄付する"
+   },
+   "editor": {
+      "message": "エディタ"
+   },
+   "enable_all_styles": {
+      "message": "すべて有効にする"
+   },
+   "enable_readability": {
+      "message": "読みやすさ優先化を有効にする"
+   },
+   "enable_right_click_menu": {
+      "message": "右クリックメニューを有効にする"
+   },
+   "enter_css_selector": {
+      "message": "CSSセレクタを入力する..."
+   },
+   "export_dialog_title": {
+      "message": "JSONファイルにコピー/貼り付け"
+   },
+   "export_instructions": {
+      "message": "JSONを安全に保ち、後でインポートする"
+   },
+   "extension_description": {
+      "message": "ウェブの外観を瞬時に変更"
+   },
+   "font_family": {
+      "message": "フォント"
+   },
+   "font_size": {
+      "message": "サイズ"
+   },
+   "font_style": {
+      "message": "スタイル"
+   },
+   "global": {
+      "message": "グローバル"
+   },
+   "grayscale": {
+      "message": "グレースケールにする"
+   },
+   "grayscale_description": {
+      "message": "ページにグレースケールを適用する"
+   },
+   "height": {
+      "message": "高さ"
+   },
+   "help_options": {
+      "message": "ヘルプを表示する"
+   },
+   "hide": {
+      "message": "隠す"
+   },
+   "hide_element": {
+      "message": "CSSを適用して選択した要素を表示/非表示"
+   },
+   "import": {
+      "message": "インポートする"
+   },
+   "import_dialog_title": {
+      "message": "以前にエクスポートしたJSONを貼り付け"
+   },
+   "import_error": {
+      "message": "JSONのインポート中にエラーが発生しました。 正しくフォーマットされていることを確認して、もう一度お試しください。"
+   },
+   "import_instructions": {
+      "message": "これにより、既存のスタイルが上書きされます。 これを元に戻すことはできません。よろしいですか?"
+   },
+   "increase_width": {
+      "message": "幅を広げる"
+   },
+   "inspect_description": {
+      "message": "ページ内の要素を選択してスタイルを設定します"
+   },
+   "italic": {
+      "message": "イタリック"
+   },
+   "keyboard_shortcuts": {
+      "message": "キーボードショートカット"
+   },
+   "layout_properties": {
+      "message": "レイアウト"
+   },
+   "light": {
+      "message": "光"
+   },
+   "light_italic": {
+      "message": "光イタリック"
+   },
+   "light_theme": {
+      "message": "光"
+   },
+   "line_height": {
+      "message": "行の高さ"
+   },
+   "magic_mode": {
+      "message": "マジック"
+   },
+   "magic_mode_description": {
+      "message": "実験的機能。 すべてのページで期待どおりに動作しない場合があります。"
+   },
+   "margin": {
+      "message": "マージン"
+   },
+   "medium": {
+      "message": "中"
+   },
+   "medium_italic": {
+      "message": "中イタリック"
+   },
+   "move_editor": {
+      "message": "エディタへ移動する"
+   },
+   "move_left": {
+      "message": "左に移動"
+   },
+   "move_right": {
+      "message": "右に移動"
+   },
+   "none": {
+      "message": "なし"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "すべて削除する..."
+   },
+   "open_delete_style_dialog": {
+      "message": "削除する..."
+   },
+   "open_edit_style_dialog": {
+      "message": "編集する..."
+   },
+   "open_export_dialog": {
+      "message": "書き出す..."
+   },
+   "open_import_dialog": {
+      "message": "インポート..."
+   },
+   "open_stylebot": {
+      "message": "Stylebotを開く"
+   },
+   "padding": {
+      "message": "パディング"
+   },
+   "privacy_policy": {
+      "message": "個人情報保護方針：\n \nStylebotは個人情報や閲覧履歴などをこれまで収集したことはなく今後も収集しません。Webサイトにアクセスするための権限許可は、任意のWebページのCSSをカスタマイズし、そのWebページにアクセスしたときに自動的に適用するために利用します。\n \n今後、Stylebotはブラウザのバージョン、プラットフォーム名、ユーザーの設定を収集する可能性があります（ウェブサイトのリストやユーザーの識別に役立つその他のデータを除く）。 この情報は、新機能の実装、未使用の機能の削除、または新しいユーザーへの初期設定の提案に必要です。 それはユーザーの許可がなければ起こりません。"
+   },
+   "readability": {
+      "message": "読みやすさ優先化"
+   },
+   "readability_description": {
+      "message": "サイドバー、フッター、広告などの必須ではないページ要素を非表示にして、このサイトの記事を読みやすくします。"
+   },
+   "regular": {
+      "message": "定期的"
+   },
+   "save": {
+      "message": "保存する"
+   },
+   "sepia_theme": {
+      "message": "セピア"
+   },
+   "set_basic_mode": {
+      "message": "基本エディタに切り替える"
+   },
+   "set_code_mode": {
+      "message": "コードエディタに切り替える"
+   },
+   "set_magic_mode": {
+      "message": "マジックのエディタに切り替える"
+   },
+   "show_help": {
+      "message": "ヘルプを表示する"
+   },
+   "store_listing": {
+      "message": "要素を選択し、エディターから必要な変更を選択します。 フォント、色、マージン、表示設定などを変更できます。 CSSを手動でコーディングすることもできます。\n \n★ 使いやすさ：UIアクションを使用した要素の選択とスタイル設定\n★ シンプルで早い：変更は即座に保存します\n★ コードエディタ-独自のCSSを作成できます\n★ 読みやすさ優先モード-サイドバー、フッター、広告などの必須ではないページ要素を非表示にして、サイトの記事を読みやすくします。\n★ グレースケールモード-ウェブサイトからの負担を軽減するためにグレースケールを有効にできます"
+   },
+   "style_element": {
+      "message": "スタイル"
+   },
+   "styles_options": {
+      "message": "スタイル"
+   },
+   "styling": {
+      "message": "スタイリング"
+   },
+   "text_align": {
+      "message": "整列"
+   },
+   "text_color": {
+      "message": "文字色"
+   },
+   "text_decoration": {
+      "message": "装飾"
+   },
+   "text_properties": {
+      "message": "テキスト"
+   },
+   "text_transform": {
+      "message": "大文字小文字の変更"
+   },
+   "theme": {
+      "message": "テーマ"
+   },
+   "thin": {
+      "message": "薄い"
+   },
+   "thin_italic": {
+      "message": "薄いイタリック"
+   },
+   "toggle_editor": {
+      "message": "エディタを切り替える"
+   },
+   "toggle_grayscale": {
+      "message": "グレースケールを切り替える"
+   },
+   "toggle_inspector": {
+      "message": "要素インスペクターの切り替える"
+   },
+   "toggle_readability": {
+      "message": "読みやすさ優先化を切り替える"
+   },
+   "toggle_styling": {
+      "message": "スタイリングを切り替える"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "キーボードショートカットを表示..."
+   },
+   "view_options": {
+      "message": "オプション..."
+   },
+   "visibility": {
+      "message": "可視"
+   },
+   "width": {
+      "message": "幅"
+   }
+}

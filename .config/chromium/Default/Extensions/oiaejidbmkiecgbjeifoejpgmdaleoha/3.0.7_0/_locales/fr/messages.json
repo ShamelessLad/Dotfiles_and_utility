@@ -1,0 +1,381 @@
+{
+   "add_new_style": {
+      "message": "Ajouter un nouveau style ..."
+   },
+   "background_color": {
+      "message": "Contexte"
+   },
+   "backup_description": {
+      "message": "Jusqu'à ce que nous prenions en charge la synchronisation / sauvegarde automatisée, veuillez sauvegarder manuellement votre css."
+   },
+   "backup_options": {
+      "message": "Sauvegarde"
+   },
+   "basic_mode": {
+      "message": "De base"
+   },
+   "basic_mode_description": {
+      "message": "Éditeur visuel CSS"
+   },
+   "basics_options": {
+      "message": "Basiques"
+   },
+   "black": {
+      "message": "Noir"
+   },
+   "black_italic": {
+      "message": "Italique noir"
+   },
+   "bold": {
+      "message": "Audacieux"
+   },
+   "bold_italic": {
+      "message": "Gras italique"
+   },
+   "border": {
+      "message": "Frontière"
+   },
+   "border_color": {
+      "message": "Couleur"
+   },
+   "border_dashed": {
+      "message": "Pointillé"
+   },
+   "border_dotted": {
+      "message": "Pointé"
+   },
+   "border_double": {
+      "message": "Double"
+   },
+   "border_groove": {
+      "message": "Rainure"
+   },
+   "border_inset": {
+      "message": "Encart"
+   },
+   "border_none": {
+      "message": "Aucun"
+   },
+   "border_outset": {
+      "message": "Début"
+   },
+   "border_properties": {
+      "message": "Frontière"
+   },
+   "border_ridge": {
+      "message": "crête"
+   },
+   "border_solid": {
+      "message": "Solide"
+   },
+   "border_style": {
+      "message": "Style"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "close_stylebot": {
+      "message": "Fermer Stylebot"
+   },
+   "code_mode": {
+      "message": "Code"
+   },
+   "code_mode_description": {
+      "message": "Code"
+   },
+   "color_properties": {
+      "message": "Couleurs"
+   },
+   "context_menu": {
+      "message": "Menu contextuel"
+   },
+   "copy_to_clipboard": {
+      "message": "Copier dans le presse-papier"
+   },
+   "customize": {
+      "message": "Personnaliser"
+   },
+   "dark_theme": {
+      "message": "Sombre"
+   },
+   "decrease_width": {
+      "message": "Diminuer la largeur"
+   },
+   "default": {
+      "message": "Défaut"
+   },
+   "delete": {
+      "message": "Supprimer"
+   },
+   "delete_all_styles": {
+      "message": "Supprimer tous les styles"
+   },
+   "delete_all_warning": {
+      "message": "Cela supprimera définitivement tous vos styles. Vous ne pouvez pas annuler cela."
+   },
+   "delete_style": {
+      "message": "Supprimer le style ..."
+   },
+   "delete_style_for_url_description": {
+      "message": "Cela supprimera définitivement votre css pour $url$. Vous ne pouvez pas annuler cela.",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "Supprimer le style pour $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "Cela supprimera définitivement votre style. Vous ne pouvez pas annuler cela."
+   },
+   "disable_all_styles": {
+      "message": "Désactiver tous les"
+   },
+   "donate": {
+      "message": "Faire un don"
+   },
+   "editor": {
+      "message": "Éditeur"
+   },
+   "enable_all_styles": {
+      "message": "Tout activer"
+   },
+   "enable_readability": {
+      "message": "Activer la lisibilité"
+   },
+   "enable_right_click_menu": {
+      "message": "Activer le menu contextuel"
+   },
+   "enter_css_selector": {
+      "message": "Entrez le sélecteur CSS ..."
+   },
+   "export_dialog_title": {
+      "message": "Copier / coller dans un fichier JSON"
+   },
+   "export_instructions": {
+      "message": "Gardez le JSON en sécurité pour l'importer plus tard"
+   },
+   "extension_description": {
+      "message": "Changer l'apparence du Web instantanément"
+   },
+   "font_family": {
+      "message": "Police de caractère"
+   },
+   "font_size": {
+      "message": "Taille"
+   },
+   "font_style": {
+      "message": "Style"
+   },
+   "global": {
+      "message": "Global"
+   },
+   "grayscale": {
+      "message": "Niveaux de gris"
+   },
+   "grayscale_description": {
+      "message": "Appliquez des niveaux de gris à la page."
+   },
+   "height": {
+      "message": "la taille"
+   },
+   "help_options": {
+      "message": "Aidez-moi"
+   },
+   "hide": {
+      "message": "Cacher"
+   },
+   "hide_element": {
+      "message": "Appliquer CSS pour afficher / masquer les éléments sélectionnés"
+   },
+   "import": {
+      "message": "Importer"
+   },
+   "import_dialog_title": {
+      "message": "Coller le JSON précédemment exporté"
+   },
+   "import_error": {
+      "message": "Nous avons rencontré une erreur lors de l'importation du JSON. Veuillez vous assurer qu'il est correctement formaté et réessayer."
+   },
+   "import_instructions": {
+      "message": "Cela écrasera vos styles existants. Vous ne pouvez pas annuler cela."
+   },
+   "increase_width": {
+      "message": "Augmenter la largeur"
+   },
+   "inspect_description": {
+      "message": "Sélectionnez un élément de la page pour le styliser"
+   },
+   "italic": {
+      "message": "Italique"
+   },
+   "keyboard_shortcuts": {
+      "message": "Raccourcis clavier"
+   },
+   "layout_properties": {
+      "message": "Disposition"
+   },
+   "light": {
+      "message": "Lumière"
+   },
+   "light_italic": {
+      "message": "Italique clair"
+   },
+   "light_theme": {
+      "message": "Lumière"
+   },
+   "line_height": {
+      "message": "Hauteur de la ligne"
+   },
+   "magic_mode": {
+      "message": "la magie"
+   },
+   "magic_mode_description": {
+      "message": "Fonctionnalités expérimentales. Peut ne pas fonctionner comme prévu sur toutes les pages."
+   },
+   "margin": {
+      "message": "Marge"
+   },
+   "medium": {
+      "message": "Moyen"
+   },
+   "medium_italic": {
+      "message": "Italique moyen"
+   },
+   "move_editor": {
+      "message": "Éditeur de déplacement"
+   },
+   "move_left": {
+      "message": "Se déplacer à gauche"
+   },
+   "move_right": {
+      "message": "Déplacer vers la droite"
+   },
+   "none": {
+      "message": "Aucun"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "Tout supprimer ..."
+   },
+   "open_delete_style_dialog": {
+      "message": "Supprimer..."
+   },
+   "open_edit_style_dialog": {
+      "message": "Éditer..."
+   },
+   "open_export_dialog": {
+      "message": "Exportation..."
+   },
+   "open_import_dialog": {
+      "message": "Importer..."
+   },
+   "open_stylebot": {
+      "message": "Ouvrez Stylebot"
+   },
+   "padding": {
+      "message": "Rembourrage"
+   },
+   "privacy_policy": {
+      "message": "Politique de confidentialité:\n\nStylebot n'a jamais collecté et ne collectera jamais de données personnelles, d'historique de navigation, etc. L'autorisation d'accéder aux sites Web est de vous permettre uniquement de personnaliser le CSS pour n'importe quelle page Web et d'appliquer automatiquement votre CSS lorsque vous visitez la page Web à l'avenir.\n\nÀ l'avenir, Stylebot peut collecter la version du navigateur, le nom de la plate-forme, les paramètres de l'utilisateur (à l'exception de la liste des sites Web ou de toute autre donnée pouvant aider à identifier l'utilisateur). Ces informations sont nécessaires pour décider de la mise en œuvre de nouvelles fonctionnalités, de la suppression des fonctionnalités inutilisées ou de la suggestion de paramètres par défaut pour les nouveaux utilisateurs. Cela n'arrivera qu'avec votre permission."
+   },
+   "readability": {
+      "message": "Lisibilité"
+   },
+   "readability_description": {
+      "message": "Rendez les articles de ce site lisibles en masquant les éléments de page non essentiels tels que les barres latérales, les pieds de page et les publicités."
+   },
+   "regular": {
+      "message": "Régulier"
+   },
+   "save": {
+      "message": "sauver"
+   },
+   "sepia_theme": {
+      "message": "Sépia"
+   },
+   "set_basic_mode": {
+      "message": "Passer à l'éditeur de base"
+   },
+   "set_code_mode": {
+      "message": "Passer à l'éditeur de code"
+   },
+   "set_magic_mode": {
+      "message": "Passer à l'éditeur magique"
+   },
+   "show_help": {
+      "message": "Afficher l'aide"
+   },
+   "store_listing": {
+      "message": "Vous choisissez un élément et choisissez les modifications que vous souhaitez apporter à partir de l'éditeur. Vous pouvez modifier la police, la couleur, les marges, la visibilité et bien plus encore. Vous pouvez également coder le CSS manuellement.\n\n★ Facile à utiliser: choisissez et stylisez des éléments à l'aide des actions de l'interface utilisateur\n★ Simple et rapide: les modifications sont enregistrées instantanément\n★ Éditeur de code - Écrivez votre propre CSS\n★ Mode de lisibilité - Rendez les articles de n'importe quel site lisibles en masquant les éléments de page non essentiels tels que les barres latérales, les pieds de page et les publicités.\n★ Mode Niveaux de gris - Activez les niveaux de gris pour réduire la tension des sites Web"
+   },
+   "style_element": {
+      "message": "Élément de style"
+   },
+   "styles_options": {
+      "message": "modes"
+   },
+   "styling": {
+      "message": "Coiffant"
+   },
+   "text_align": {
+      "message": "Alignement"
+   },
+   "text_color": {
+      "message": "Texte"
+   },
+   "text_decoration": {
+      "message": "Décoration"
+   },
+   "text_properties": {
+      "message": "Texte"
+   },
+   "text_transform": {
+      "message": "Transformer"
+   },
+   "theme": {
+      "message": "Thème"
+   },
+   "thin": {
+      "message": "Mince"
+   },
+   "thin_italic": {
+      "message": "Italique mince"
+   },
+   "toggle_editor": {
+      "message": "Changer d'éditeur"
+   },
+   "toggle_grayscale": {
+      "message": "Basculer en niveaux de gris"
+   },
+   "toggle_inspector": {
+      "message": "Basculer l'inspecteur d'élément"
+   },
+   "toggle_readability": {
+      "message": "Basculer la lisibilité"
+   },
+   "toggle_styling": {
+      "message": "Basculer le style"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "Afficher les raccourcis clavier ..."
+   },
+   "view_options": {
+      "message": "Options..."
+   },
+   "visibility": {
+      "message": "Visibilité"
+   },
+   "width": {
+      "message": "Largeur"
+   }
+}

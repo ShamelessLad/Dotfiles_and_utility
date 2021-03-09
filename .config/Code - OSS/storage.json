@@ -50,7 +50,6 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/seelelad/.config/openbox/menu.xml",
                                         "path": "/home/seelelad/.config/openbox/menu.xml",
                                         "scheme": "file"
                                     },
@@ -574,7 +573,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"

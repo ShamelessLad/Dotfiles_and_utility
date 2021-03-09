@@ -1,0 +1,381 @@
+{
+   "add_new_style": {
+      "message": "Add a new style..."
+   },
+   "background_color": {
+      "message": "Background"
+   },
+   "backup_description": {
+      "message": "Until we support automated sync/backup, please manually backup your css."
+   },
+   "backup_options": {
+      "message": "Backup"
+   },
+   "basic_mode": {
+      "message": "Basic"
+   },
+   "basic_mode_description": {
+      "message": "Visual CSS editor"
+   },
+   "basics_options": {
+      "message": "Basics"
+   },
+   "black": {
+      "message": "Black"
+   },
+   "black_italic": {
+      "message": "Black Italic"
+   },
+   "bold": {
+      "message": "Bold"
+   },
+   "bold_italic": {
+      "message": "Bold Italic"
+   },
+   "border": {
+      "message": "Border"
+   },
+   "border_color": {
+      "message": "Color"
+   },
+   "border_dashed": {
+      "message": "Dashed"
+   },
+   "border_dotted": {
+      "message": "Dotted"
+   },
+   "border_double": {
+      "message": "Double"
+   },
+   "border_groove": {
+      "message": "Groove"
+   },
+   "border_inset": {
+      "message": "Inset"
+   },
+   "border_none": {
+      "message": "None"
+   },
+   "border_outset": {
+      "message": "Outset"
+   },
+   "border_properties": {
+      "message": "Border"
+   },
+   "border_ridge": {
+      "message": "Ridge"
+   },
+   "border_solid": {
+      "message": "Solid"
+   },
+   "border_style": {
+      "message": "Style"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "close_stylebot": {
+      "message": "Close Stylebot"
+   },
+   "code_mode": {
+      "message": "Code"
+   },
+   "code_mode_description": {
+      "message": "Code"
+   },
+   "color_properties": {
+      "message": "Colors"
+   },
+   "context_menu": {
+      "message": "Context Menu"
+   },
+   "copy_to_clipboard": {
+      "message": "Copy to Clipboard"
+   },
+   "customize": {
+      "message": "Customize"
+   },
+   "dark_theme": {
+      "message": "Dark"
+   },
+   "decrease_width": {
+      "message": "Decrease Width"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "delete_all_styles": {
+      "message": "Delete All Styles"
+   },
+   "delete_all_warning": {
+      "message": "This will permanently delete all your styles. You can't undo this."
+   },
+   "delete_style": {
+      "message": "Delete style..."
+   },
+   "delete_style_for_url_description": {
+      "message": "This will permanently delete your css for $url$. You cannot undo this.",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "Delete style for $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "This will permanently delete your style. You can't undo this."
+   },
+   "disable_all_styles": {
+      "message": "Disable all"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "editor": {
+      "message": "Editor"
+   },
+   "enable_all_styles": {
+      "message": "Enable all"
+   },
+   "enable_readability": {
+      "message": "Enable Readability"
+   },
+   "enable_right_click_menu": {
+      "message": "Enable Right Click Menu"
+   },
+   "enter_css_selector": {
+      "message": "Enter CSS Selector..."
+   },
+   "export_dialog_title": {
+      "message": "Copy / paste into a JSON file"
+   },
+   "export_instructions": {
+      "message": "Keep the JSON safe to import it later"
+   },
+   "extension_description": {
+      "message": "Change the appearance of the web instantly"
+   },
+   "font_family": {
+      "message": "Font"
+   },
+   "font_size": {
+      "message": "Size"
+   },
+   "font_style": {
+      "message": "Style"
+   },
+   "global": {
+      "message": "Global"
+   },
+   "grayscale": {
+      "message": "Grayscale"
+   },
+   "grayscale_description": {
+      "message": "Apply grayscale to the page."
+   },
+   "height": {
+      "message": "Height"
+   },
+   "help_options": {
+      "message": "Help"
+   },
+   "hide": {
+      "message": "Hide"
+   },
+   "hide_element": {
+      "message": "Apply CSS to show/hide selected elements"
+   },
+   "import": {
+      "message": "Import"
+   },
+   "import_dialog_title": {
+      "message": "Paste previously exported JSON"
+   },
+   "import_error": {
+      "message": "We encountered an error importing the JSON. Please ensure it is properly formatted and try again."
+   },
+   "import_instructions": {
+      "message": "This will overwrite your existing styles. You can't undo this."
+   },
+   "increase_width": {
+      "message": "Increase Width"
+   },
+   "inspect_description": {
+      "message": "Select an element in the page to style it"
+   },
+   "italic": {
+      "message": "Italic"
+   },
+   "keyboard_shortcuts": {
+      "message": "Keyboard shortcuts"
+   },
+   "layout_properties": {
+      "message": "Layout"
+   },
+   "light": {
+      "message": "Light"
+   },
+   "light_italic": {
+      "message": "Light Italic"
+   },
+   "light_theme": {
+      "message": "Light"
+   },
+   "line_height": {
+      "message": "Line Height"
+   },
+   "magic_mode": {
+      "message": "Magic"
+   },
+   "magic_mode_description": {
+      "message": "Experimental features. May not work as expected on all pages."
+   },
+   "margin": {
+      "message": "Margin"
+   },
+   "medium": {
+      "message": "Medium"
+   },
+   "medium_italic": {
+      "message": "Medium Italic"
+   },
+   "move_editor": {
+      "message": "Move editor"
+   },
+   "move_left": {
+      "message": "Move Left"
+   },
+   "move_right": {
+      "message": "Move Right"
+   },
+   "none": {
+      "message": "None"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "Delete all..."
+   },
+   "open_delete_style_dialog": {
+      "message": "Delete..."
+   },
+   "open_edit_style_dialog": {
+      "message": "Edit..."
+   },
+   "open_export_dialog": {
+      "message": "Export..."
+   },
+   "open_import_dialog": {
+      "message": "Import..."
+   },
+   "open_stylebot": {
+      "message": "Open Stylebot"
+   },
+   "padding": {
+      "message": "Padding"
+   },
+   "privacy_policy": {
+      "message": "Privacy Policy:\n\nStylebot has never collected and will never collect any personal data, browsing history etc. The permission to access websites is to only let you customize the CSS for any webpage and automatically apply your CSS when you visit the webpage in the future.\n\nIn the future, Stylebot may collect browser version, platform name, user's settings (except website list or any other data which can help identify user). This information is needed for decision on implementing new features, removing unused features or suggesting default settings for new users. It will happen only with your permission."
+   },
+   "readability": {
+      "message": "Readability"
+   },
+   "readability_description": {
+      "message": "Make articles on this site readable by hiding non-essential page elements like sidebars, footers and ads."
+   },
+   "regular": {
+      "message": "Regular"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "sepia_theme": {
+      "message": "Sepia"
+   },
+   "set_basic_mode": {
+      "message": "Switch to basic editor"
+   },
+   "set_code_mode": {
+      "message": "Switch to code editor"
+   },
+   "set_magic_mode": {
+      "message": "Switch to magic editor"
+   },
+   "show_help": {
+      "message": "Show help"
+   },
+   "store_listing": {
+      "message": "You pick an element and choose any changes you want to make from the editor. You can change the font, color, margins, visibility and a lot more. You can also code CSS manually.\n\n★ Easy to use: Pick and style elements using UI actions\n★ Simple & Quick: Changes are saved instantly\n★ Code editor - Write your own CSS \n★ Readability Mode - Make articles on any site readable by hiding non-essential page elements like sidebars, footers and ads. \n★ Grayscale Mode - Turn on grayscale to reduce strain from websites"
+   },
+   "style_element": {
+      "message": "Style Element"
+   },
+   "styles_options": {
+      "message": "Styles"
+   },
+   "styling": {
+      "message": "Styling"
+   },
+   "text_align": {
+      "message": "Alignment"
+   },
+   "text_color": {
+      "message": "Text"
+   },
+   "text_decoration": {
+      "message": "Decoration"
+   },
+   "text_properties": {
+      "message": "Text"
+   },
+   "text_transform": {
+      "message": "Transform"
+   },
+   "theme": {
+      "message": "Theme"
+   },
+   "thin": {
+      "message": "Thin"
+   },
+   "thin_italic": {
+      "message": "Thin Italic"
+   },
+   "toggle_editor": {
+      "message": "Toggle editor"
+   },
+   "toggle_grayscale": {
+      "message": "Toggle grayscale"
+   },
+   "toggle_inspector": {
+      "message": "Toggle element inspector"
+   },
+   "toggle_readability": {
+      "message": "Toggle readability"
+   },
+   "toggle_styling": {
+      "message": "Toggle styling"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "View keyboard shortcuts..."
+   },
+   "view_options": {
+      "message": "Options..."
+   },
+   "visibility": {
+      "message": "Visibility"
+   },
+   "width": {
+      "message": "Width"
+   }
+}

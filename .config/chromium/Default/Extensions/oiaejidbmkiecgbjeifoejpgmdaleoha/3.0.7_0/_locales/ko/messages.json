@@ -1,0 +1,381 @@
+{
+   "add_new_style": {
+      "message": "새 스타일 추가 ..."
+   },
+   "background_color": {
+      "message": "배경"
+   },
+   "backup_description": {
+      "message": "자동 동기화 / 백업을 지원할 때까지 CSS를 수동으로 백업하세요."
+   },
+   "backup_options": {
+      "message": "지원"
+   },
+   "basic_mode": {
+      "message": "기본"
+   },
+   "basic_mode_description": {
+      "message": "비주얼 CSS 편집기"
+   },
+   "basics_options": {
+      "message": "기초"
+   },
+   "black": {
+      "message": "검정"
+   },
+   "black_italic": {
+      "message": "검정 기울임 꼴"
+   },
+   "bold": {
+      "message": "굵게"
+   },
+   "bold_italic": {
+      "message": "굵은 기울임 꼴"
+   },
+   "border": {
+      "message": "경계"
+   },
+   "border_color": {
+      "message": "색깔"
+   },
+   "border_dashed": {
+      "message": "파선"
+   },
+   "border_dotted": {
+      "message": "점이 찍힌"
+   },
+   "border_double": {
+      "message": "더블"
+   },
+   "border_groove": {
+      "message": "홈"
+   },
+   "border_inset": {
+      "message": "삽입"
+   },
+   "border_none": {
+      "message": "없음"
+   },
+   "border_outset": {
+      "message": "시초"
+   },
+   "border_properties": {
+      "message": "경계"
+   },
+   "border_ridge": {
+      "message": "산등성이"
+   },
+   "border_solid": {
+      "message": "고체"
+   },
+   "border_style": {
+      "message": "스타일"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "close_stylebot": {
+      "message": "Stylebot 닫기"
+   },
+   "code_mode": {
+      "message": "암호"
+   },
+   "code_mode_description": {
+      "message": "암호"
+   },
+   "color_properties": {
+      "message": "그림 물감"
+   },
+   "context_menu": {
+      "message": "상황에 맞는 메뉴"
+   },
+   "copy_to_clipboard": {
+      "message": "클립 보드에 복사"
+   },
+   "customize": {
+      "message": "커스터마이즈"
+   },
+   "dark_theme": {
+      "message": "어두운"
+   },
+   "decrease_width": {
+      "message": "너비 줄이기"
+   },
+   "default": {
+      "message": "기본"
+   },
+   "delete": {
+      "message": "지우다"
+   },
+   "delete_all_styles": {
+      "message": "모든 스타일 삭제"
+   },
+   "delete_all_warning": {
+      "message": "모든 스타일이 영구적으로 삭제됩니다. 이 작업은 취소 할 수 없습니다."
+   },
+   "delete_style": {
+      "message": "스타일 삭제 ..."
+   },
+   "delete_style_for_url_description": {
+      "message": "$url$에 대한 CSS가 영구적으로 삭제됩니다. 이 작업은 취소 할 수 없습니다.",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "$url$의 스타일 삭제",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "스타일이 영구적으로 삭제됩니다. 이 작업은 취소 할 수 없습니다."
+   },
+   "disable_all_styles": {
+      "message": "모두 비활성화"
+   },
+   "donate": {
+      "message": "기부"
+   },
+   "editor": {
+      "message": "편집자"
+   },
+   "enable_all_styles": {
+      "message": "모두 활성화"
+   },
+   "enable_readability": {
+      "message": "가독성 활성화"
+   },
+   "enable_right_click_menu": {
+      "message": "오른쪽 클릭 메뉴 활성화"
+   },
+   "enter_css_selector": {
+      "message": "CSS 선택기 입력 ..."
+   },
+   "export_dialog_title": {
+      "message": "JSON 파일에 복사 / 붙여 넣기"
+   },
+   "export_instructions": {
+      "message": "나중에 가져올 수 있도록 JSON을 안전하게 보관"
+   },
+   "extension_description": {
+      "message": "웹의 모양을 즉시 변경"
+   },
+   "font_family": {
+      "message": "폰트"
+   },
+   "font_size": {
+      "message": "크기"
+   },
+   "font_style": {
+      "message": "스타일"
+   },
+   "global": {
+      "message": "글로벌"
+   },
+   "grayscale": {
+      "message": "그레이 스케일"
+   },
+   "grayscale_description": {
+      "message": "페이지에 그레이 스케일을 적용합니다."
+   },
+   "height": {
+      "message": "신장"
+   },
+   "help_options": {
+      "message": "도움"
+   },
+   "hide": {
+      "message": "숨는 장소"
+   },
+   "hide_element": {
+      "message": "CSS를 적용하여 선택한 요소 표시 / 숨기기"
+   },
+   "import": {
+      "message": "수입"
+   },
+   "import_dialog_title": {
+      "message": "이전에 내 보낸 JSON 붙여 넣기"
+   },
+   "import_error": {
+      "message": "JSON을 가져 오는 중에 오류가 발생했습니다. 올바른 형식인지 확인하고 다시 시도하십시오."
+   },
+   "import_instructions": {
+      "message": "기존 스타일을 덮어 씁니다. 이 작업은 취소 할 수 없습니다."
+   },
+   "increase_width": {
+      "message": "너비 늘리기"
+   },
+   "inspect_description": {
+      "message": "페이지에서 스타일을 지정할 요소를 선택하십시오."
+   },
+   "italic": {
+      "message": "이탤릭체"
+   },
+   "keyboard_shortcuts": {
+      "message": "키보드 단축키"
+   },
+   "layout_properties": {
+      "message": "나열한 것"
+   },
+   "light": {
+      "message": "빛"
+   },
+   "light_italic": {
+      "message": "연한 기울임 꼴"
+   },
+   "light_theme": {
+      "message": "빛"
+   },
+   "line_height": {
+      "message": "라인 높이"
+   },
+   "magic_mode": {
+      "message": "마법"
+   },
+   "magic_mode_description": {
+      "message": "실험적 기능. 모든 페이지에서 예상대로 작동하지 않을 수 있습니다."
+   },
+   "margin": {
+      "message": "여유"
+   },
+   "medium": {
+      "message": "매질"
+   },
+   "medium_italic": {
+      "message": "중간 기울임 꼴"
+   },
+   "move_editor": {
+      "message": "편집기 이동"
+   },
+   "move_left": {
+      "message": "왼쪽으로 이동"
+   },
+   "move_right": {
+      "message": "오른쪽으로 이동해라"
+   },
+   "none": {
+      "message": "없음"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "모두 삭제..."
+   },
+   "open_delete_style_dialog": {
+      "message": "지우다..."
+   },
+   "open_edit_style_dialog": {
+      "message": "편집하다..."
+   },
+   "open_export_dialog": {
+      "message": "수출..."
+   },
+   "open_import_dialog": {
+      "message": "수입..."
+   },
+   "open_stylebot": {
+      "message": "Stylebot 열기"
+   },
+   "padding": {
+      "message": "심"
+   },
+   "privacy_policy": {
+      "message": "개인 정보 정책:\n\nStylebot은 개인 데이터, 검색 기록 등을 수집 한 적이 없으며 절대 수집하지 않습니다. 웹 사이트에 액세스 할 수있는 권한은 웹 페이지에 대한 CSS를 사용자 정의하고 향후 웹 페이지를 방문 할 때 CSS를 자동으로 적용하는 것입니다.\n\n향후 Stylebot은 브라우저 버전, 플랫폼 이름, 사용자 설정 (웹 사이트 목록 또는 사용자 식별에 도움이 될 수있는 기타 데이터 제외)을 수집 할 수 있습니다. 이 정보는 새 기능 구현, 사용하지 않는 기능 제거 또는 새 사용자를위한 기본 설정 제안에 대한 결정에 필요합니다. 그것은 당신의 허락 하에서 만 일어날 것입니다."
+   },
+   "readability": {
+      "message": "가독성"
+   },
+   "readability_description": {
+      "message": "사이드 바, 바닥 글 및 광고와 같이 중요하지 않은 페이지 요소를 숨겨이 사이트의 기사를 읽을 수 있도록 만드세요."
+   },
+   "regular": {
+      "message": "정규병"
+   },
+   "save": {
+      "message": "저장"
+   },
+   "sepia_theme": {
+      "message": "세피아"
+   },
+   "set_basic_mode": {
+      "message": "기본 편집기로 전환"
+   },
+   "set_code_mode": {
+      "message": "코드 편집기로 전환"
+   },
+   "set_magic_mode": {
+      "message": "매직 편집기로 전환"
+   },
+   "show_help": {
+      "message": "도움말보기"
+   },
+   "store_listing": {
+      "message": "요소를 선택하고 편집기에서 변경하려는 내용을 선택합니다. 글꼴, 색상, 여백, 가시성 등을 변경할 수 있습니다. CSS를 수동으로 코딩 할 수도 있습니다.\n\n★ 사용하기 쉬움 : UI 작업을 사용하여 요소 선택 및 스타일 지정\n★ 간단하고 빠른 : 변경 사항이 즉시 저장됩니다.\n★ 코드 편집기-자신 만의 CSS 작성\n★ 가독성 모드-사이드 바, 바닥 글 및 광고와 같은 중요하지 않은 페이지 요소를 숨겨서 모든 사이트의 기사를 읽을 수 있도록합니다.\n★ 그레이 스케일 모드-웹 사이트의 부담을 줄이기 위해 그레이 스케일을 켜십시오."
+   },
+   "style_element": {
+      "message": "스타일 요소"
+   },
+   "styles_options": {
+      "message": "스타일"
+   },
+   "styling": {
+      "message": "스타일링"
+   },
+   "text_align": {
+      "message": "조정"
+   },
+   "text_color": {
+      "message": "본문"
+   },
+   "text_decoration": {
+      "message": "장식"
+   },
+   "text_properties": {
+      "message": "본문"
+   },
+   "text_transform": {
+      "message": "변환"
+   },
+   "theme": {
+      "message": "테마"
+   },
+   "thin": {
+      "message": "얇은"
+   },
+   "thin_italic": {
+      "message": "얇은 기울임 꼴"
+   },
+   "toggle_editor": {
+      "message": "편집기 전환"
+   },
+   "toggle_grayscale": {
+      "message": "그레이 스케일 전환"
+   },
+   "toggle_inspector": {
+      "message": "요소 검사기 전환"
+   },
+   "toggle_readability": {
+      "message": "가독성 전환"
+   },
+   "toggle_styling": {
+      "message": "스타일 전환"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "단축키보기 ..."
+   },
+   "view_options": {
+      "message": "옵션 ..."
+   },
+   "visibility": {
+      "message": "시계"
+   },
+   "width": {
+      "message": "폭"
+   }
+}

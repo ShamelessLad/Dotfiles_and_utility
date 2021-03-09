@@ -1,3 +1,15 @@
-2021/03/05-17:16:28.195 3 Reusing MANIFEST /home/seelelad/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/03/05-17:16:28.201 3 Recovering log #33
-2021/03/05-17:16:28.203 3 Reusing old log /home/seelelad/.config/chromium/Default/Local Storage/leveldb/000033.log 
+2021/03/09-14:39:54.142 3 Reusing MANIFEST /home/seelelad/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/09-14:39:54.143 3 Recovering log #37
+2021/03/09-14:39:54.143 3 Reusing old log /home/seelelad/.config/chromium/Default/Local Storage/leveldb/000037.log 
+2021/03/09-14:40:19.495 3 Level-0 table #40: started
+2021/03/09-14:40:19.498 3 Level-0 table #40: 17068 bytes OK
+2021/03/09-14:40:19.500 3 Delete type=0 #37
+2021/03/09-14:40:19.501 3 Compacting 4@0 + 1@1 files
+2021/03/09-14:40:19.507 3 Generated table #41@0: 304 keys, 158466 bytes
+2021/03/09-14:40:19.508 3 Compacted 4@0 + 1@1 files => 158466 bytes
+2021/03/09-14:40:19.509 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/09-14:40:19.510 3 Delete type=2 #36
+2021/03/09-14:40:19.510 3 Delete type=2 #40
+2021/03/09-14:40:19.510 3 Delete type=2 #28
+2021/03/09-14:40:19.510 3 Delete type=2 #34
+2021/03/09-14:40:19.510 3 Delete type=2 #31
